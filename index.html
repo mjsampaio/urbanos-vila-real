@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Urbanos Vila Real</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+
+  <!-- 🧭 Planeador de Rota -->
+  <div id="planner-panel">
+    <h2>🧭 Planeador de Rota</h2>
+    <input type="text" id="destination" placeholder="Morada de destino">
+
+    <div id="start-options">
+      <label><input type="radio" name="startOption" value="current" checked> Usar localização atual</label>
+      <label><input type="radio" name="startOption" value="address"> Introduzir morada de partida</label>
+    </div>
+
+    <div id="start-address-container" style="display:none;">
+      <input type="text" id="start" placeholder="Morada de partida">
+    </div>
+
+    <button id="calculate-route">Calcular percurso</button>
+  </div>
+
+  <!-- 🗺️ Mapa -->
+  <div id="map"></div>
+
+  <!-- 📋 Painel inferior (paragens / rotas / legenda) -->
+  <div id="bottom-panel">
+    <div id="tabs">
+      <button class="tab-button active" data-tab="stops">Paragens</button>
+      <button class="tab-button" data-tab="routes">Rotas</button>
+      <button class="tab-button" data-tab="legend">Legenda</button>
+    </div>
+
+    <div id="tab-content">
+      <ul id="stops-list" class="tab active"></ul>
+      <ul id="routes-list" class="tab"></ul>
+      <ul id="legend-list" class="tab"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+
+  <script>
+    // alternância entre abas no painel inferior
+    document.querySelectorAll('.tab-button').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById(btn.dataset.tab + '-list').classList.add('active');
+      });
+    });
+  </script>
+</body>
+</html>

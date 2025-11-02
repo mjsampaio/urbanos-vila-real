@@ -1,0 +1,145 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Inter", sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+/* --- Painel do planeador --- */
+#planner-panel {
+  padding: 10px;
+  background: #1e293b;
+  border-bottom: 2px solid #334155;
+}
+
+#planner-panel h2 {
+  color: #22d3ee;
+  margin: 0 0 10px;
+  font-size: 1.2em;
+}
+
+#planner-panel input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 10px;
+  font-size: 0.9em;
+}
+
+#planner-panel button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #0284c7;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#planner-panel button:hover {
+  background: #0369a1;
+}
+
+#start-options {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0 10px;
+  font-size: 0.85em;
+}
+
+/* --- Mapa --- */
+#map {
+  width: 100%;
+  height: calc(100vh - 260px);
+}
+
+/* --- Painel inferior (tabs) --- */
+#bottom-panel {
+  background: #1e293b;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 2px solid #334155;
+  max-height: 40vh;
+  overflow-y: auto;
+}
+
+#tabs {
+  display: flex;
+  justify-content: space-around;
+  background: #0f172a;
+}
+
+.tab-button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  background: none;
+  color: #94a3b8;
+  font-weight: 600;
+}
+
+.tab-button.active {
+  color: #22d3ee;
+  border-bottom: 3px solid #22d3ee;
+}
+
+.tab {
+  display: none;
+  padding: 10px;
+  list-style: none;
+  margin: 0;
+}
+
+.tab.active {
+  display: block;
+}
+
+#stops-list li, #routes-list li, #legend-list li {
+  padding: 6px 4px;
+  border-bottom: 1px solid #334155;
+  font-size: 0.9em;
+}
+
+/* Círculo de cor na legenda */
+.legend-color {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* --- Responsividade --- */
+@media (min-width: 768px) {
+  #map {
+    height: calc(100vh - 200px);
+  }
+
+  #bottom-panel {
+    position: relative;
+    max-height: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #tab-content {
+    display: flex;
+    width: 100%;
+  }
+
+  .tab {
+    flex: 1;
+    display: block !important;
+    overflow-y: auto;
+  }
+
+  #tabs {
+    display: none; /* esconder abas no desktop */
+  }
+}
