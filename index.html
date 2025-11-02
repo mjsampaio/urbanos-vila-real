@@ -11,52 +11,63 @@
 </head>
 <body>
 
-  <!-- 🏠 HOME -->
+  <!-- 🧭 Header superior -->
+  <header id="main-header">
+    <h1>Urbanos Vila Real</h1>
+    <input type="text" id="search-destination" placeholder="Para onde vais?">
+  </header>
+
+  <!-- 🏠 Home -->
   <section id="tab-home" class="tab active">
-    <div id="planner-panel">
-      <h2>🧭 Planeador de Rota</h2>
-      <input type="text" id="destination" placeholder="Morada de destino">
-
-      <div id="start-options">
-        <label><input type="radio" name="startOption" value="current" checked> Usar localização atual</label>
-        <label><input type="radio" name="startOption" value="address"> Introduzir morada de partida</label>
-      </div>
-
-      <div id="start-address-container" style="display:none;">
-        <input type="text" id="start" placeholder="Morada de partida">
-      </div>
-
-      <button id="calculate-route">Calcular percurso</button>
+    <div id="quick-actions">
+      <button class="card-btn" data-tab="planner">🧭 Planear Rota</button>
+      <button class="card-btn" data-tab="stops">🚏 Ver Paragens</button>
+      <button class="card-btn" data-tab="map">🗺️ Ver Mapa</button>
     </div>
 
-    <div id="legend-panel">
-      <h3>🗺️ Legenda</h3>
-      <ul id="legend-list"></ul>
+    <div id="info-block">
+      <h2>Próximas partidas</h2>
+      <p>Consulta as linhas e horários dos Urbanos de Vila Real em tempo real.</p>
     </div>
   </section>
 
-  <!-- 🚏 BUS STOPS -->
+  <!-- 🧭 Planeador -->
+  <section id="tab-planner" class="tab">
+    <h2>🧭 Planeador de Rota</h2>
+    <input type="text" id="destination" placeholder="Morada de destino">
+    <div id="start-options">
+      <label><input type="radio" name="startOption" value="current" checked> Localização atual</label>
+      <label><input type="radio" name="startOption" value="address"> Introduzir morada</label>
+    </div>
+    <div id="start-address-container" style="display:none;">
+      <input type="text" id="start" placeholder="Morada de partida">
+    </div>
+    <button id="calculate-route">Calcular percurso</button>
+  </section>
+
+  <!-- 🚏 Paragens -->
   <section id="tab-stops" class="tab">
     <h2>🚏 Paragens</h2>
     <ul id="stops-list"></ul>
   </section>
 
-  <!-- 🗺️ MAPA -->
+  <!-- 🗺️ Mapa -->
   <section id="tab-map" class="tab">
     <div id="map"></div>
   </section>
 
-  <!-- ⚙️ TOOLBAR INFERIOR -->
+  <!-- ⚙️ Toolbar inferior -->
   <nav id="bottom-toolbar">
     <button data-tab="home" class="active">🏠<br>Home</button>
-    <button data-tab="stops">🚏<br>Bus Stops</button>
+    <button data-tab="planner">🧭<br>Rotas</button>
+    <button data-tab="stops">🚏<br>Paragens</button>
     <button data-tab="map">🗺️<br>Mapa</button>
   </nav>
 
   <script src="script.js"></script>
   <script>
     // Alternância entre tabs
-    const buttons = document.querySelectorAll('#bottom-toolbar button');
+    const buttons = document.querySelectorAll('#bottom-toolbar button, .card-btn');
     const tabs = document.querySelectorAll('.tab');
 
     buttons.forEach(btn => {
