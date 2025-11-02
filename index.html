@@ -11,51 +11,60 @@
 </head>
 <body>
 
-  <!-- 🧭 Planeador de Rota -->
-  <div id="planner-panel">
-    <h2>🧭 Planeador de Rota</h2>
-    <input type="text" id="destination" placeholder="Morada de destino">
+  <!-- 🏠 HOME -->
+  <section id="tab-home" class="tab active">
+    <div id="planner-panel">
+      <h2>🧭 Planeador de Rota</h2>
+      <input type="text" id="destination" placeholder="Morada de destino">
 
-    <div id="start-options">
-      <label><input type="radio" name="startOption" value="current" checked> Usar localização atual</label>
-      <label><input type="radio" name="startOption" value="address"> Introduzir morada de partida</label>
+      <div id="start-options">
+        <label><input type="radio" name="startOption" value="current" checked> Usar localização atual</label>
+        <label><input type="radio" name="startOption" value="address"> Introduzir morada de partida</label>
+      </div>
+
+      <div id="start-address-container" style="display:none;">
+        <input type="text" id="start" placeholder="Morada de partida">
+      </div>
+
+      <button id="calculate-route">Calcular percurso</button>
     </div>
 
-    <div id="start-address-container" style="display:none;">
-      <input type="text" id="start" placeholder="Morada de partida">
+    <div id="legend-panel">
+      <h3>🗺️ Legenda</h3>
+      <ul id="legend-list"></ul>
     </div>
+  </section>
 
-    <button id="calculate-route">Calcular percurso</button>
-  </div>
+  <!-- 🚏 BUS STOPS -->
+  <section id="tab-stops" class="tab">
+    <h2>🚏 Paragens</h2>
+    <ul id="stops-list"></ul>
+  </section>
 
-  <!-- 🗺️ Mapa -->
-  <div id="map"></div>
+  <!-- 🗺️ MAPA -->
+  <section id="tab-map" class="tab">
+    <div id="map"></div>
+  </section>
 
-  <!-- 📋 Painel inferior (paragens / rotas / legenda) -->
-  <div id="bottom-panel">
-    <div id="tabs">
-      <button class="tab-button active" data-tab="stops">Paragens</button>
-      <button class="tab-button" data-tab="routes">Rotas</button>
-      <button class="tab-button" data-tab="legend">Legenda</button>
-    </div>
-
-    <div id="tab-content">
-      <ul id="stops-list" class="tab active"></ul>
-      <ul id="routes-list" class="tab"></ul>
-      <ul id="legend-list" class="tab"></ul>
-    </div>
-  </div>
+  <!-- ⚙️ TOOLBAR INFERIOR -->
+  <nav id="bottom-toolbar">
+    <button data-tab="home" class="active">🏠<br>Home</button>
+    <button data-tab="stops">🚏<br>Bus Stops</button>
+    <button data-tab="map">🗺️<br>Mapa</button>
+  </nav>
 
   <script src="script.js"></script>
-
   <script>
-    // alternância entre abas no painel inferior
-    document.querySelectorAll('.tab-button').forEach(btn => {
+    // Alternância entre tabs
+    const buttons = document.querySelectorAll('#bottom-toolbar button');
+    const tabs = document.querySelectorAll('.tab');
+
+    buttons.forEach(btn => {
       btn.addEventListener('click', () => {
-        document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
-        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        buttons.forEach(b => b.classList.remove('active'));
+        tabs.forEach(t => t.classList.remove('active'));
         btn.classList.add('active');
-        document.getElementById(btn.dataset.tab + '-list').classList.add('active');
+        document.getElementById(`tab-${btn.dataset.tab}`).classList.add('active');
       });
     });
   </script>
