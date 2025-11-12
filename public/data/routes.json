@@ -1,0 +1,26 @@
+[
+  {
+    "route_id": "L1",
+    "route_short_name": "L1",
+    "route_long_name": "Linha 1",
+    "route_type": 3
+  },
+  {
+    "route_id": "L2",
+    "route_short_name": "L2",
+    "route_long_name": "Linha 2",
+    "route_type": 3
+  },
+  {
+    "route_id": "L3",
+    "route_short_name": "L3",
+    "route_long_name": "Linha 3",
+    "route_type": 3
+  },
+  {
+    "route_id": "L4",
+    "route_short_name": "L4",
+    "route_long_name": "Linha 4",
+    "route_type": 3
+  }
+]

@@ -1,0 +1,2666 @@
+[
+  {
+    "trip_id": "L1_2040",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "07:20:00",
+    "end_time": "08:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2041",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "07:40:00",
+    "end_time": "08:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2077",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:00:00",
+    "end_time": "08:37:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2042",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:00:00",
+    "end_time": "08:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2043",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:15:00",
+    "end_time": "09:04:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2044",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:40:00",
+    "end_time": "09:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2045",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "09:00:00",
+    "end_time": "09:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2046",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "09:20:00",
+    "end_time": "10:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2047",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "09:40:00",
+    "end_time": "10:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2048",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "10:00:00",
+    "end_time": "10:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2049",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "10:20:00",
+    "end_time": "11:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2050",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "10:40:00",
+    "end_time": "11:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2051",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "11:00:00",
+    "end_time": "11:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2052",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "11:20:00",
+    "end_time": "12:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2053",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "11:40:00",
+    "end_time": "12:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2054",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "12:00:00",
+    "end_time": "12:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2055",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "12:20:00",
+    "end_time": "13:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2056",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "12:40:00",
+    "end_time": "13:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2057",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "13:00:00",
+    "end_time": "13:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2058",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "13:20:00",
+    "end_time": "14:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2059",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "13:40:00",
+    "end_time": "14:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2060",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "14:00:00",
+    "end_time": "14:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2061",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "14:20:00",
+    "end_time": "15:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2062",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "14:40:00",
+    "end_time": "15:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2063",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "15:00:00",
+    "end_time": "15:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2064",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "15:20:00",
+    "end_time": "16:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2065",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "15:40:00",
+    "end_time": "16:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2066",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:00:00",
+    "end_time": "16:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2067",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:20:00",
+    "end_time": "17:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2068",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:40:00",
+    "end_time": "17:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2078",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:45:00",
+    "end_time": "17:22:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2069",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:00:00",
+    "end_time": "17:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2070",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:20:00",
+    "end_time": "18:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2071",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:40:00",
+    "end_time": "18:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2072",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "18:00:00",
+    "end_time": "18:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2073",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "18:20:00",
+    "end_time": "19:09:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2074",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "18:40:00",
+    "end_time": "19:29:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2081",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "19:05:00",
+    "end_time": "19:50:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2082",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "19:30:00",
+    "end_time": "20:15:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2079",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "20:00:00",
+    "end_time": "20:41:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_2080",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "20:35:00",
+    "end_time": "21:16:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L1_91",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "07:10:00",
+    "end_time": "07:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1372",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "07:30:00",
+    "end_time": "08:13:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1371",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "07:50:00",
+    "end_time": "08:33:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1373",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:10:00",
+    "end_time": "08:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1374",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:30:00",
+    "end_time": "09:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1375",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:40:00",
+    "end_time": "09:27:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1410",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "08:50:00",
+    "end_time": "09:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1376",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "09:10:00",
+    "end_time": "09:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1377",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "09:30:00",
+    "end_time": "10:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1378",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "09:50:00",
+    "end_time": "10:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1379",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "10:10:00",
+    "end_time": "10:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1380",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "10:30:00",
+    "end_time": "11:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1381",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "10:50:00",
+    "end_time": "11:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1382",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "11:10:00",
+    "end_time": "11:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1383",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "11:30:00",
+    "end_time": "12:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1384",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "11:50:00",
+    "end_time": "12:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1385",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "12:10:00",
+    "end_time": "12:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1386",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "12:30:00",
+    "end_time": "13:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1387",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "12:50:00",
+    "end_time": "13:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1388",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "13:10:00",
+    "end_time": "13:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1389",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "13:30:00",
+    "end_time": "14:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1390",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "13:50:00",
+    "end_time": "14:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1391",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "14:10:00",
+    "end_time": "14:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1392",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "14:30:00",
+    "end_time": "15:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1393",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "14:50:00",
+    "end_time": "15:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1394",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "15:10:00",
+    "end_time": "15:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1395",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "15:30:00",
+    "end_time": "16:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1396",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "15:50:00",
+    "end_time": "16:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1397",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:10:00",
+    "end_time": "16:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1398",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:30:00",
+    "end_time": "17:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1399",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "16:50:00",
+    "end_time": "17:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1400",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:10:00",
+    "end_time": "17:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_774",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:25:00",
+    "end_time": "18:04:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1401",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:30:00",
+    "end_time": "18:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1402",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "17:50:00",
+    "end_time": "18:37:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1403",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "18:10:00",
+    "end_time": "18:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_1404",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "18:30:00",
+    "end_time": "19:17:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_2151",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "18:50:00",
+    "end_time": "19:34:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_2152",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "19:15:00",
+    "end_time": "19:59:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_2153",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "19:50:00",
+    "end_time": "20:34:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L1_2154",
+    "route_id": "L1",
+    "service_id": "WEEKDAY",
+    "shape_id": "L1",
+    "start_time": "20:15:00",
+    "end_time": "20:59:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_2314",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "07:20:00",
+    "end_time": "07:47:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_182",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "07:55:00",
+    "end_time": "08:22:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_183",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "08:30:00",
+    "end_time": "08:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_184",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "09:00:00",
+    "end_time": "09:27:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_185",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "09:30:00",
+    "end_time": "09:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_186",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "10:00:00",
+    "end_time": "10:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_187",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "10:30:00",
+    "end_time": "10:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_188",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "11:00:00",
+    "end_time": "11:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_189",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "11:30:00",
+    "end_time": "11:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_190",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "12:00:00",
+    "end_time": "12:27:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_191",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "12:30:00",
+    "end_time": "12:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_192",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "13:00:00",
+    "end_time": "13:27:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_193",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "13:30:00",
+    "end_time": "13:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_194",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "14:00:00",
+    "end_time": "14:27:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_195",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "14:30:00",
+    "end_time": "14:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_196",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "15:00:00",
+    "end_time": "15:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_197",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "15:30:00",
+    "end_time": "15:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_198",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "16:00:00",
+    "end_time": "16:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_199",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "16:30:00",
+    "end_time": "16:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_200",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "17:00:00",
+    "end_time": "17:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_201",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "17:30:00",
+    "end_time": "17:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_202",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "18:00:00",
+    "end_time": "18:27:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_203",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "18:30:00",
+    "end_time": "18:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_204",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "19:00:00",
+    "end_time": "19:27:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_205",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "19:30:00",
+    "end_time": "19:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_206",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "20:00:00",
+    "end_time": "20:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_1412",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "20:30:00",
+    "end_time": "20:57:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L2_1438",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "07:25:00",
+    "end_time": "07:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1413",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "07:55:00",
+    "end_time": "08:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1414",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "08:30:00",
+    "end_time": "08:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1415",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "09:00:00",
+    "end_time": "09:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1416",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "09:30:00",
+    "end_time": "09:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1417",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "10:00:00",
+    "end_time": "10:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1418",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "10:30:00",
+    "end_time": "10:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1419",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "11:00:00",
+    "end_time": "11:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1420",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "11:30:00",
+    "end_time": "11:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1421",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "12:00:00",
+    "end_time": "12:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1422",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "12:30:00",
+    "end_time": "12:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1423",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "13:00:00",
+    "end_time": "13:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1424",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "13:30:00",
+    "end_time": "13:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1425",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "14:00:00",
+    "end_time": "14:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1426",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "14:30:00",
+    "end_time": "14:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1427",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "15:00:00",
+    "end_time": "15:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1428",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "15:30:00",
+    "end_time": "15:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1429",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "16:00:00",
+    "end_time": "16:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1430",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "16:30:00",
+    "end_time": "16:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1431",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "17:00:00",
+    "end_time": "17:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1432",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "17:30:00",
+    "end_time": "17:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1433",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "18:00:00",
+    "end_time": "18:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1434",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "18:30:00",
+    "end_time": "18:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1435",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "19:00:00",
+    "end_time": "19:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1436",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "19:30:00",
+    "end_time": "19:58:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1437",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "20:00:00",
+    "end_time": "20:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L2_1439",
+    "route_id": "L2",
+    "service_id": "WEEKDAY",
+    "shape_id": "L2",
+    "start_time": "20:25:00",
+    "end_time": "20:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2526",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "07:25:00",
+    "end_time": "07:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2370",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "08:05:00",
+    "end_time": "08:30:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2518",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "08:40:00",
+    "end_time": "09:08:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2371",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "09:15:00",
+    "end_time": "09:40:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2519",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "09:50:00",
+    "end_time": "10:18:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2383",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "10:25:00",
+    "end_time": "10:50:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2374",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "10:55:00",
+    "end_time": "11:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2384",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "11:35:00",
+    "end_time": "12:00:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2375",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "12:05:00",
+    "end_time": "12:33:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2385",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "12:45:00",
+    "end_time": "13:10:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2382",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "13:15:00",
+    "end_time": "13:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2391",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "13:55:00",
+    "end_time": "14:22:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2377",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "14:25:00",
+    "end_time": "14:53:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2386",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "15:00:00",
+    "end_time": "15:25:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2378",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "15:35:00",
+    "end_time": "16:03:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2387",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "16:10:00",
+    "end_time": "16:35:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2379",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "16:45:00",
+    "end_time": "17:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2388",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "17:20:00",
+    "end_time": "17:45:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2380",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "17:55:00",
+    "end_time": "18:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2435",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "18:35:00",
+    "end_time": "19:00:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2381",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "19:05:00",
+    "end_time": "19:33:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2390",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "19:40:00",
+    "end_time": "20:05:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2392",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "20:15:00",
+    "end_time": "20:45:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2528",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "20:45:00",
+    "end_time": "21:18:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L3_2393",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "07:25:00",
+    "end_time": "08:05:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2394",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "07:55:00",
+    "end_time": "08:33:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2395",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "08:30:00",
+    "end_time": "09:10:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2521",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "09:15:00",
+    "end_time": "09:47:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2523",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "09:45:00",
+    "end_time": "10:25:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2524",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "10:20:00",
+    "end_time": "10:52:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2397",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "10:50:00",
+    "end_time": "11:30:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2402",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "11:25:00",
+    "end_time": "11:57:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2398",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "12:00:00",
+    "end_time": "12:40:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2403",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "12:35:00",
+    "end_time": "13:07:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2399",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "13:10:00",
+    "end_time": "13:50:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2417",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "13:45:00",
+    "end_time": "14:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2410",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "14:25:00",
+    "end_time": "14:59:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2418",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "14:55:00",
+    "end_time": "15:33:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2411",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "15:30:00",
+    "end_time": "16:04:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2419",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "16:05:00",
+    "end_time": "16:43:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2412",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "16:40:00",
+    "end_time": "17:14:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2420",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "17:15:00",
+    "end_time": "17:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2413",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "17:50:00",
+    "end_time": "18:26:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2421",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "18:25:00",
+    "end_time": "19:03:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2414",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "19:00:00",
+    "end_time": "19:36:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2422",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "19:35:00",
+    "end_time": "20:13:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L3_2415",
+    "route_id": "L3",
+    "service_id": "WEEKDAY",
+    "shape_id": "L3",
+    "start_time": "20:10:00",
+    "end_time": "20:47:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2164",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:20:00",
+    "end_time": "07:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_325",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:30:00",
+    "end_time": "07:59:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2165",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:40:00",
+    "end_time": "08:14:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2166",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:55:00",
+    "end_time": "08:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2167",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:10:00",
+    "end_time": "08:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_1272",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:25:00",
+    "end_time": "09:03:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2169",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:40:00",
+    "end_time": "09:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2210",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:50:00",
+    "end_time": "09:23:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2170",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:55:00",
+    "end_time": "09:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2171",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:10:00",
+    "end_time": "09:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_1273",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:25:00",
+    "end_time": "10:03:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2173",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:45:00",
+    "end_time": "10:18:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2174",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:55:00",
+    "end_time": "10:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2175",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:10:00",
+    "end_time": "10:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2176",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:25:00",
+    "end_time": "10:58:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2177",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:45:00",
+    "end_time": "11:18:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2178",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:55:00",
+    "end_time": "11:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2179",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:10:00",
+    "end_time": "11:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2180",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:25:00",
+    "end_time": "11:58:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2181",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:40:00",
+    "end_time": "12:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2182",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:55:00",
+    "end_time": "12:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2212",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:10:00",
+    "end_time": "12:48:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2184",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:25:00",
+    "end_time": "12:58:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2185",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:40:00",
+    "end_time": "13:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2186",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:55:00",
+    "end_time": "13:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2187",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:10:00",
+    "end_time": "13:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2188",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:30:00",
+    "end_time": "14:03:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2189",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:40:00",
+    "end_time": "14:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2190",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:55:00",
+    "end_time": "14:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2191",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:10:00",
+    "end_time": "14:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_1275",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:25:00",
+    "end_time": "15:03:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2193",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:40:00",
+    "end_time": "15:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2194",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:55:00",
+    "end_time": "15:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2195",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:10:00",
+    "end_time": "15:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2196",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:25:00",
+    "end_time": "15:58:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2197",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:45:00",
+    "end_time": "16:18:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2198",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:55:00",
+    "end_time": "16:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2199",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:10:00",
+    "end_time": "16:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2200",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:25:00",
+    "end_time": "16:58:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2201",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:40:00",
+    "end_time": "17:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2202",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:55:00",
+    "end_time": "17:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2203",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:10:00",
+    "end_time": "17:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2211",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:15:00",
+    "end_time": "17:48:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_1276",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:25:00",
+    "end_time": "18:03:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2205",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:40:00",
+    "end_time": "18:13:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2206",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:55:00",
+    "end_time": "18:28:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2214",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:05:00",
+    "end_time": "18:47:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2207",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:10:00",
+    "end_time": "18:43:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2208",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:25:00",
+    "end_time": "18:58:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2209",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:45:00",
+    "end_time": "19:18:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2213",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:55:00",
+    "end_time": "19:33:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2426",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:10:00",
+    "end_time": "19:39:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2427",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:30:00",
+    "end_time": "19:59:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2428",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:55:00",
+    "end_time": "20:24:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2429",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "20:20:00",
+    "end_time": "20:49:00",
+    "direction": 0
+  },
+  {
+    "trip_id": "L4_2215",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:20:00",
+    "end_time": "07:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2430",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:35:00",
+    "end_time": "08:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_1313",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:35:00",
+    "end_time": "08:13:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2217",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "07:50:00",
+    "end_time": "08:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2218",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:05:00",
+    "end_time": "08:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2263",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:15:00",
+    "end_time": "08:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_1019",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:35:00",
+    "end_time": "08:48:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2220",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:35:00",
+    "end_time": "09:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2221",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "08:50:00",
+    "end_time": "09:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_1315",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:05:00",
+    "end_time": "09:43:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2223",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:20:00",
+    "end_time": "09:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2265",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:25:00",
+    "end_time": "09:33:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2224",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:35:00",
+    "end_time": "10:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2225",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "09:50:00",
+    "end_time": "10:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_1316",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:05:00",
+    "end_time": "10:43:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2227",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:20:00",
+    "end_time": "10:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2228",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:35:00",
+    "end_time": "11:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2229",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "10:50:00",
+    "end_time": "11:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2230",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:05:00",
+    "end_time": "11:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2231",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:20:00",
+    "end_time": "11:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2232",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:35:00",
+    "end_time": "12:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2233",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "11:50:00",
+    "end_time": "12:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2234",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:05:00",
+    "end_time": "12:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2235",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:20:00",
+    "end_time": "12:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2236",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:35:00",
+    "end_time": "13:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2264",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "12:50:00",
+    "end_time": "13:28:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2238",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:05:00",
+    "end_time": "13:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2239",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:20:00",
+    "end_time": "13:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2240",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:35:00",
+    "end_time": "14:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2241",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "13:50:00",
+    "end_time": "14:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2242",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:05:00",
+    "end_time": "14:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2243",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:20:00",
+    "end_time": "14:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2244",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:35:00",
+    "end_time": "15:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2245",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "14:50:00",
+    "end_time": "15:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_1318",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:05:00",
+    "end_time": "15:43:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2247",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:20:00",
+    "end_time": "15:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2248",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:35:00",
+    "end_time": "16:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2249",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "15:50:00",
+    "end_time": "16:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2250",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:05:00",
+    "end_time": "16:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2251",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:20:00",
+    "end_time": "16:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2252",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:35:00",
+    "end_time": "17:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2262",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:50:00",
+    "end_time": "17:15:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2253",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "16:50:00",
+    "end_time": "17:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2254",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:05:00",
+    "end_time": "17:38:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2255",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:20:00",
+    "end_time": "17:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2256",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:35:00",
+    "end_time": "18:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2257",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "17:50:00",
+    "end_time": "18:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_1319",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:05:00",
+    "end_time": "18:43:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2259",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:20:00",
+    "end_time": "18:53:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2260",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:35:00",
+    "end_time": "19:08:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2261",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "18:50:00",
+    "end_time": "19:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2423",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:05:00",
+    "end_time": "19:34:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2424",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:20:00",
+    "end_time": "19:49:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2275",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:35:00",
+    "end_time": "20:09:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2425",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "19:50:00",
+    "end_time": "20:19:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2272",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "20:00:00",
+    "end_time": "20:23:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2273",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "20:25:00",
+    "end_time": "20:48:00",
+    "direction": 1
+  },
+  {
+    "trip_id": "L4_2274",
+    "route_id": "L4",
+    "service_id": "WEEKDAY",
+    "shape_id": "L4",
+    "start_time": "20:50:00",
+    "end_time": "21:13:00",
+    "direction": 1
+  }
+]

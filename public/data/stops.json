@@ -1,0 +1,3773 @@
+[
+  {
+    "id": "2246",
+    "name": "ABAÇAS",
+    "nameShort": "2246",
+    "position": {
+      "lat": 41.225194,
+      "lon": -7.696626
+    }
+  },
+  {
+    "id": "2245",
+    "name": "ABAÇAS IGREJA",
+    "nameShort": "2245",
+    "position": {
+      "lat": 41.2237706148,
+      "lon": -7.6937807469
+    }
+  },
+  {
+    "id": "2244",
+    "name": "ABAÇAS X",
+    "nameShort": "2244",
+    "position": {
+      "lat": 41.2219061367,
+      "lon": -7.6746062299
+    }
+  },
+  {
+    "id": "1075",
+    "name": "ABAMBRES",
+    "nameShort": "1075",
+    "position": {
+      "lat": 41.304441,
+      "lon": -7.719986
+    }
+  },
+  {
+    "id": "1334",
+    "name": "ABAMBRES",
+    "nameShort": "1334",
+    "position": {
+      "lat": 41.304337,
+      "lon": -7.720034
+    }
+  },
+  {
+    "id": "2066",
+    "name": "ABAMBRES (GARE)",
+    "nameShort": "2066",
+    "position": {
+      "lat": 41.31245117,
+      "lon": -7.71876336
+    }
+  },
+  {
+    "id": "2321",
+    "name": "ADOUFE",
+    "nameShort": "2321",
+    "position": {
+      "lat": 41.339033,
+      "lon": -7.736779
+    }
+  },
+  {
+    "id": "1061",
+    "name": "AERODROMO",
+    "nameShort": "1061",
+    "position": {
+      "lat": 41.276758,
+      "lon": -7.717428
+    }
+  },
+  {
+    "id": "1010",
+    "name": "AERODROMO",
+    "nameShort": "1010",
+    "position": {
+      "lat": 41.27607,
+      "lon": -7.717325
+    }
+  },
+  {
+    "id": "1343",
+    "name": "AGAREZ",
+    "nameShort": "1343",
+    "position": {
+      "lat": 41.320655,
+      "lon": -7.784819
+    }
+  },
+  {
+    "id": "1344",
+    "name": "AGAREZ",
+    "nameShort": "1344",
+    "position": {
+      "lat": 41.320647,
+      "lon": -7.784723
+    }
+  },
+  {
+    "id": "2068",
+    "name": "ÁGUAS SANTAS",
+    "nameShort": "2068",
+    "position": {
+      "lat": 41.3694553175,
+      "lon": -7.6558099996
+    }
+  },
+  {
+    "id": "1137",
+    "name": "AL. GRASSE I",
+    "nameShort": "1137",
+    "position": {
+      "lat": 41.299894,
+      "lon": -7.7318
+    }
+  },
+  {
+    "id": "1150",
+    "name": "AL. GRASSE II",
+    "nameShort": "1150",
+    "position": {
+      "lat": 41.29998,
+      "lon": -7.732
+    }
+  },
+  {
+    "id": "2211",
+    "name": "ALTO DE NEGRELOS",
+    "nameShort": "2211",
+    "position": {
+      "lat": 41.297203,
+      "lon": -7.766633
+    }
+  },
+  {
+    "id": "2072",
+    "name": "ALVITES",
+    "nameShort": "2072",
+    "position": {
+      "lat": 41.3266168013,
+      "lon": -7.6751028804
+    }
+  },
+  {
+    "id": "2260",
+    "name": "ALVITES I",
+    "nameShort": "2260",
+    "position": {
+      "lat": 41.320737,
+      "lon": -7.67639
+    }
+  },
+  {
+    "id": "2073",
+    "name": "ALVITES X",
+    "nameShort": "2073",
+    "position": {
+      "lat": 41.3239983038,
+      "lon": -7.6794218349
+    }
+  },
+  {
+    "id": "2028",
+    "name": "ANDRÃES",
+    "nameShort": "2028",
+    "position": {
+      "lat": 41.266922,
+      "lon": -7.68881
+    }
+  },
+  {
+    "id": "1348",
+    "name": "ANDRÃES CENTRO ESCOLAR",
+    "nameShort": "1348",
+    "position": {
+      "lat": 41.2678512994,
+      "lon": -7.6950000028
+    }
+  },
+  {
+    "id": "1350",
+    "name": "ANDRÃES CRUZEIRO",
+    "nameShort": "1350",
+    "position": {
+      "lat": 41.2690773374,
+      "lon": -7.6931186547
+    }
+  },
+  {
+    "id": "2239",
+    "name": "ANDRÃES I",
+    "nameShort": "2239",
+    "position": {
+      "lat": 41.264486,
+      "lon": -7.694588
+    }
+  },
+  {
+    "id": "2075",
+    "name": "ARNADELO",
+    "nameShort": "2075",
+    "position": {
+      "lat": 41.26190735,
+      "lon": -7.78977348
+    }
+  },
+  {
+    "id": "2275",
+    "name": "ARNAL",
+    "nameShort": "2275",
+    "position": {
+      "lat": 41.335132,
+      "lon": -7.809258
+    }
+  },
+  {
+    "id": "2076",
+    "name": "ARRABÃES",
+    "nameShort": "2076",
+    "position": {
+      "lat": 41.2827529979,
+      "lon": -7.8123410283
+    }
+  },
+  {
+    "id": "2019",
+    "name": "ARROIOS",
+    "nameShort": "2019",
+    "position": {
+      "lat": 41.2910613391,
+      "lon": -7.7051396377
+    }
+  },
+  {
+    "id": "2045",
+    "name": "ASSENTO",
+    "nameShort": "2045",
+    "position": {
+      "lat": 41.2844148764,
+      "lon": -7.6833937825
+    }
+  },
+  {
+    "id": "2295",
+    "name": "ASSENTO 2",
+    "nameShort": "2295",
+    "position": {
+      "lat": 41.288448,
+      "lon": -7.681341
+    }
+  },
+  {
+    "id": "1363",
+    "name": "AV D. DINIS",
+    "nameShort": "1363",
+    "position": {
+      "lat": 41.3031509701,
+      "lon": -7.7441574672
+    }
+  },
+  {
+    "id": "1194",
+    "name": "AV. 1º DE MAIO",
+    "nameShort": "1194",
+    "position": {
+      "lat": 41.295559,
+      "lon": -7.744018
+    }
+  },
+  {
+    "id": "1181",
+    "name": "AV. A. BARRIGAS",
+    "nameShort": "1181",
+    "position": {
+      "lat": 41.302374,
+      "lon": -7.740868
+    }
+  },
+  {
+    "id": "1210",
+    "name": "AV. A. BARRIGAS",
+    "nameShort": "1210",
+    "position": {
+      "lat": 41.302277,
+      "lon": -7.741095
+    }
+  },
+  {
+    "id": "1209",
+    "name": "AV. CIDADE OURENSE",
+    "nameShort": "1209",
+    "position": {
+      "lat": 41.3042972032,
+      "lon": -7.745411882
+    }
+  },
+  {
+    "id": "1193",
+    "name": "AV. CIDADE OURENSE",
+    "nameShort": "1193",
+    "position": {
+      "lat": 41.3043813769,
+      "lon": -7.7453980787
+    }
+  },
+  {
+    "id": "2078",
+    "name": "AV. DO CABO",
+    "nameShort": "2078",
+    "position": {
+      "lat": 41.292618,
+      "lon": -7.875934
+    }
+  },
+  {
+    "id": "1214",
+    "name": "AV. EUROPA",
+    "nameShort": "1214",
+    "position": {
+      "lat": 41.30456,
+      "lon": -7.738853
+    }
+  },
+  {
+    "id": "1136",
+    "name": "AV. EUROPA",
+    "nameShort": "1136",
+    "position": {
+      "lat": 41.304609,
+      "lon": -7.738958
+    }
+  },
+  {
+    "id": "1103",
+    "name": "AV. NORUEGA",
+    "nameShort": "1103",
+    "position": {
+      "lat": 41.301568,
+      "lon": -7.752255
+    }
+  },
+  {
+    "id": "1104",
+    "name": "AV. NORUEGA",
+    "nameShort": "1104",
+    "position": {
+      "lat": 41.301709,
+      "lon": -7.751849
+    }
+  },
+  {
+    "id": "1135",
+    "name": "AV. OSNABRUCK",
+    "nameShort": "1135",
+    "position": {
+      "lat": 41.303621,
+      "lon": -7.729401
+    }
+  },
+  {
+    "id": "1149",
+    "name": "AV. OSNABRUCK",
+    "nameShort": "1149",
+    "position": {
+      "lat": 41.303595,
+      "lon": -7.729278
+    }
+  },
+  {
+    "id": "1105",
+    "name": "AV. UNIVERSIDADE",
+    "nameShort": "1105",
+    "position": {
+      "lat": 41.294118,
+      "lon": -7.73395
+    }
+  },
+  {
+    "id": "1102",
+    "name": "AV. UNIVERSIDADE",
+    "nameShort": "1102",
+    "position": {
+      "lat": 41.29422,
+      "lon": -7.734073
+    }
+  },
+  {
+    "id": "2255",
+    "name": "AVEÇÃOZINHO",
+    "nameShort": "2255",
+    "position": {
+      "lat": 41.3006780345,
+      "lon": -7.8747299957
+    }
+  },
+  {
+    "id": "2254",
+    "name": "AVEÇÃOZINHO DO MEIO",
+    "nameShort": "2254",
+    "position": {
+      "lat": 41.298718893,
+      "lon": -7.8758844517
+    }
+  },
+  {
+    "id": "2290",
+    "name": "AVECÃOZINHO IGREJA",
+    "nameShort": "2290",
+    "position": {
+      "lat": 41.303246,
+      "lon": -7.877789
+    }
+  },
+  {
+    "id": "1356",
+    "name": "BAIRRO DA PIMENTA",
+    "nameShort": "1356",
+    "position": {
+      "lat": 41.3036102702,
+      "lon": -7.7229784403
+    }
+  },
+  {
+    "id": "2256",
+    "name": "BAIRRO DE STO. ANTÓNIO",
+    "nameShort": "2256",
+    "position": {
+      "lat": 41.3145532354,
+      "lon": -7.8587551384
+    }
+  },
+  {
+    "id": "1004",
+    "name": "BAIRRO VILA NOVA CIMA",
+    "nameShort": "1004",
+    "position": {
+      "lat": 41.280253,
+      "lon": -7.72539
+    }
+  },
+  {
+    "id": "2080",
+    "name": "BALSA (CAMPEÃ)",
+    "nameShort": "2080",
+    "position": {
+      "lat": 41.2930788783,
+      "lon": -7.8759196128
+    }
+  },
+  {
+    "id": "2081",
+    "name": "BARRO VERMELHO",
+    "nameShort": "2081",
+    "position": {
+      "lat": 41.2818491304,
+      "lon": -7.8307595817
+    }
+  },
+  {
+    "id": "1060",
+    "name": "BASREAL",
+    "nameShort": "1060",
+    "position": {
+      "lat": 41.276659,
+      "lon": -7.710806
+    }
+  },
+  {
+    "id": "1053",
+    "name": "BASREAL",
+    "nameShort": "1053",
+    "position": {
+      "lat": 41.275844,
+      "lon": -7.710544
+    }
+  },
+  {
+    "id": "2305",
+    "name": "BENAGOURO",
+    "nameShort": "2305",
+    "position": {
+      "lat": 41.370786,
+      "lon": -7.718786
+    }
+  },
+  {
+    "id": "1054",
+    "name": "BETÃO DO MARÃO",
+    "nameShort": "1054",
+    "position": {
+      "lat": 41.273949,
+      "lon": -7.706843
+    }
+  },
+  {
+    "id": "2228",
+    "name": "BISALHÃES",
+    "nameShort": "2228",
+    "position": {
+      "lat": 41.2872721478,
+      "lon": -7.7816952041
+    }
+  },
+  {
+    "id": "1074",
+    "name": "Bº DO ALEM",
+    "nameShort": "1074",
+    "position": {
+      "lat": 41.302181,
+      "lon": -7.718897
+    }
+  },
+  {
+    "id": "1076",
+    "name": "Bº DO ALÉM",
+    "nameShort": "1076",
+    "position": {
+      "lat": 41.302009,
+      "lon": -7.717629
+    }
+  },
+  {
+    "id": "1083",
+    "name": "Bº DO BOQUE",
+    "nameShort": "1083",
+    "position": {
+      "lat": 41.308932,
+      "lon": -7.722867
+    }
+  },
+  {
+    "id": "1352",
+    "name": "Bº DOS FERREIROS",
+    "nameShort": "1352",
+    "position": {
+      "lat": 41.2985240892,
+      "lon": -7.7405610945
+    }
+  },
+  {
+    "id": "1362",
+    "name": "Bº DOS FERREIROS CAPELA",
+    "nameShort": "1362",
+    "position": {
+      "lat": 41.2970980058,
+      "lon": -7.7404094954
+    }
+  },
+  {
+    "id": "1148",
+    "name": "Bº NOVO DE ALMODENA",
+    "nameShort": "1148",
+    "position": {
+      "lat": 41.295472,
+      "lon": -7.755064
+    }
+  },
+  {
+    "id": "1101",
+    "name": "Bº S. VICENTE DE PAULO",
+    "nameShort": "1101",
+    "position": {
+      "lat": 41.307875,
+      "lon": -7.742951
+    }
+  },
+  {
+    "id": "1106",
+    "name": "Bº S. VICENTE DE PAULO",
+    "nameShort": "1106",
+    "position": {
+      "lat": 41.307516,
+      "lon": -7.740734
+    }
+  },
+  {
+    "id": "1100",
+    "name": "Bº STª MARIA",
+    "nameShort": "1100",
+    "position": {
+      "lat": 41.311713,
+      "lon": -7.726163
+    }
+  },
+  {
+    "id": "1213",
+    "name": "Bº STª MARIA",
+    "nameShort": "1213",
+    "position": {
+      "lat": 41.3119032505,
+      "lon": -7.7270629579
+    }
+  },
+  {
+    "id": "1357",
+    "name": "Bº STA. MARIA I",
+    "nameShort": "1357",
+    "position": {
+      "lat": 41.3138090622,
+      "lon": -7.724958754
+    }
+  },
+  {
+    "id": "1358",
+    "name": "Bº STA. MARIA II",
+    "nameShort": "1358",
+    "position": {
+      "lat": 41.3126541583,
+      "lon": -7.7264704058
+    }
+  },
+  {
+    "id": "2083",
+    "name": "BOAVISTA",
+    "nameShort": "2083",
+    "position": {
+      "lat": 41.2807154735,
+      "lon": -7.8651852602
+    }
+  },
+  {
+    "id": "2084",
+    "name": "BOAVISTA X",
+    "nameShort": "2084",
+    "position": {
+      "lat": 41.2833485608,
+      "lon": -7.8572217765
+    }
+  },
+  {
+    "id": "2085",
+    "name": "BORBELA",
+    "nameShort": "2085",
+    "position": {
+      "lat": 41.3280249582,
+      "lon": -7.759212822
+    }
+  },
+  {
+    "id": "2265",
+    "name": "BORBELA IGREJA",
+    "nameShort": "2265",
+    "position": {
+      "lat": 41.3293500559,
+      "lon": -7.749813014
+    }
+  },
+  {
+    "id": "1347",
+    "name": "BORBELA LARGO",
+    "nameShort": "1347",
+    "position": {
+      "lat": 41.3266107959,
+      "lon": -7.7479090188
+    }
+  },
+  {
+    "id": "2087",
+    "name": "BORBELINHA",
+    "nameShort": "2087",
+    "position": {
+      "lat": 41.33285744,
+      "lon": -7.74249345
+    }
+  },
+  {
+    "id": "2090",
+    "name": "BOUÇA",
+    "nameShort": "2090",
+    "position": {
+      "lat": 41.317148,
+      "lon": -7.701542
+    }
+  },
+  {
+    "id": "2258",
+    "name": "BOUÇA I",
+    "nameShort": "2258",
+    "position": {
+      "lat": 41.3146632743,
+      "lon": -7.7041693854
+    }
+  },
+  {
+    "id": "1180",
+    "name": "BOXES",
+    "nameShort": "1180",
+    "position": {
+      "lat": 41.305368,
+      "lon": -7.740106
+    }
+  },
+  {
+    "id": "1152",
+    "name": "BOXES",
+    "nameShort": "1152",
+    "position": {
+      "lat": 41.305406,
+      "lon": -7.74035
+    }
+  },
+  {
+    "id": "2249",
+    "name": "BUJÕES",
+    "nameShort": "2249",
+    "position": {
+      "lat": 41.2085028096,
+      "lon": -7.6945161998
+    }
+  },
+  {
+    "id": "2233",
+    "name": "BUSTELO I",
+    "nameShort": "2233",
+    "position": {
+      "lat": 41.2733559075,
+      "lon": -7.726767714
+    }
+  },
+  {
+    "id": "2234",
+    "name": "BUSTELO II",
+    "nameShort": "2234",
+    "position": {
+      "lat": 41.268039649,
+      "lon": -7.7295688812
+    }
+  },
+  {
+    "id": "1355",
+    "name": "C. SAUDE MATEUS",
+    "nameShort": "1355",
+    "position": {
+      "lat": 41.298921,
+      "lon": -7.724195
+    }
+  },
+  {
+    "id": "1099",
+    "name": "C. SAUDE MATEUS X",
+    "nameShort": "1099",
+    "position": {
+      "lat": 41.29794,
+      "lon": -7.725748
+    }
+  },
+  {
+    "id": "1108",
+    "name": "C. SAUDE MATEUS X",
+    "nameShort": "1108",
+    "position": {
+      "lat": 41.297705,
+      "lon": -7.726247
+    }
+  },
+  {
+    "id": "1153",
+    "name": "C.C. CONTINENTE",
+    "nameShort": "1153",
+    "position": {
+      "lat": 41.311533,
+      "lon": -7.734631
+    }
+  },
+  {
+    "id": "1178",
+    "name": "C.C. CONTINENTE",
+    "nameShort": "1178",
+    "position": {
+      "lat": 41.311179,
+      "lon": -7.73456
+    }
+  },
+  {
+    "id": "1133",
+    "name": "C.C. NOSSO SHOPPING",
+    "nameShort": "1133",
+    "position": {
+      "lat": 41.29783,
+      "lon": -7.734698
+    }
+  },
+  {
+    "id": "1147",
+    "name": "C.C. NOSSO SHOPPING / TEATRO",
+    "nameShort": "1147",
+    "position": {
+      "lat": 41.2985249669,
+      "lon": -7.7336119134
+    }
+  },
+  {
+    "id": "1192",
+    "name": "C.C. NOSSO SHOPPING TRAS",
+    "nameShort": "1192",
+    "position": {
+      "lat": 41.296105,
+      "lon": -7.732984
+    }
+  },
+  {
+    "id": "1208",
+    "name": "C.C. NOSSO SHOPPING TRAS",
+    "nameShort": "1208",
+    "position": {
+      "lat": 41.295903,
+      "lon": -7.732949
+    }
+  },
+  {
+    "id": "2322",
+    "name": "CALÇADA",
+    "nameShort": "2322",
+    "position": {
+      "lat": 41.327036,
+      "lon": -7.72769
+    }
+  },
+  {
+    "id": "1098",
+    "name": "CALVÁRIO",
+    "nameShort": "1098",
+    "position": {
+      "lat": 41.301852,
+      "lon": -7.742873
+    }
+  },
+  {
+    "id": "1146",
+    "name": "CÂMARA MUNICIPAL",
+    "nameShort": "1146",
+    "position": {
+      "lat": 41.2954263163,
+      "lon": -7.7456290051
+    }
+  },
+  {
+    "id": "1134",
+    "name": "CÂMARA MUNICIPAL",
+    "nameShort": "1134",
+    "position": {
+      "lat": 41.295867515,
+      "lon": -7.7463597994
+    }
+  },
+  {
+    "id": "1345",
+    "name": "CARAVELAS",
+    "nameShort": "1345",
+    "position": {
+      "lat": 41.309558,
+      "lon": -7.780608
+    }
+  },
+  {
+    "id": "1346",
+    "name": "CARAVELAS",
+    "nameShort": "1346",
+    "position": {
+      "lat": 41.309525,
+      "lon": -7.780697
+    }
+  },
+  {
+    "id": "1211",
+    "name": "CARREIRA LONGA",
+    "nameShort": "1211",
+    "position": {
+      "lat": 41.294654,
+      "lon": -7.731622
+    }
+  },
+  {
+    "id": "1212",
+    "name": "CARREIRA LONGA",
+    "nameShort": "1212",
+    "position": {
+      "lat": 41.294589,
+      "lon": -7.731739
+    }
+  },
+  {
+    "id": "2043",
+    "name": "CARRO QUEIMADO",
+    "nameShort": "2043",
+    "position": {
+      "lat": 41.293617,
+      "lon": -7.659195
+    }
+  },
+  {
+    "id": "1323",
+    "name": "CARVALHO E MOTA",
+    "nameShort": "1323",
+    "position": {
+      "lat": 41.27572,
+      "lon": -7.70906
+    }
+  },
+  {
+    "id": "2272",
+    "name": "CARVAS",
+    "nameShort": "2272",
+    "position": {
+      "lat": 41.305245,
+      "lon": -7.668198
+    }
+  },
+  {
+    "id": "2280",
+    "name": "CASTEDO",
+    "nameShort": "2280",
+    "position": {
+      "lat": 41.265771,
+      "lon": -7.844587
+    }
+  },
+  {
+    "id": "1154",
+    "name": "CEMITERIO",
+    "nameShort": "1154",
+    "position": {
+      "lat": 41.309194,
+      "lon": -7.738926
+    }
+  },
+  {
+    "id": "1097",
+    "name": "CEMITÉRIO",
+    "nameShort": "1097",
+    "position": {
+      "lat": 41.30966,
+      "lon": -7.738694
+    }
+  },
+  {
+    "id": "1109",
+    "name": "CEMITÉRIO",
+    "nameShort": "1109",
+    "position": {
+      "lat": 41.309774,
+      "lon": -7.738558
+    }
+  },
+  {
+    "id": "1223",
+    "name": "CENTRO ESCOLAR DE LORDELO",
+    "nameShort": "1223",
+    "position": {
+      "lat": 41.312234,
+      "lon": -7.764484
+    }
+  },
+  {
+    "id": "1224",
+    "name": "CENTRO ESCOLAR DE LORDELO",
+    "nameShort": "1224",
+    "position": {
+      "lat": 41.312305,
+      "lon": -7.764322
+    }
+  },
+  {
+    "id": "2099",
+    "name": "CHÃO GRANDE",
+    "nameShort": "2099",
+    "position": {
+      "lat": 41.2901023743,
+      "lon": -7.8723742024
+    }
+  },
+  {
+    "id": "2308",
+    "name": "COEDO (X) EN2",
+    "nameShort": "2308",
+    "position": {
+      "lat": 41.343386,
+      "lon": -7.722759
+    }
+  },
+  {
+    "id": "2310",
+    "name": "COEDO RUA DA PARDINHA",
+    "nameShort": "2310",
+    "position": {
+      "lat": 41.351697,
+      "lon": -7.725091
+    }
+  },
+  {
+    "id": "2309",
+    "name": "COEDO RUA DO FOJO",
+    "nameShort": "2309",
+    "position": {
+      "lat": 41.348912,
+      "lon": -7.723532
+    }
+  },
+  {
+    "id": "1068",
+    "name": "CONSTANTIM",
+    "nameShort": "1068",
+    "position": {
+      "lat": 41.282254,
+      "lon": -7.697192
+    }
+  },
+  {
+    "id": "1065",
+    "name": "CONSTANTIM",
+    "nameShort": "1065",
+    "position": {
+      "lat": 41.282374,
+      "lon": -7.697193
+    }
+  },
+  {
+    "id": "1111",
+    "name": "COOPERATIVA",
+    "nameShort": "1111",
+    "position": {
+      "lat": 41.306919,
+      "lon": -7.724621
+    }
+  },
+  {
+    "id": "1095",
+    "name": "COOPERATIVA",
+    "nameShort": "1095",
+    "position": {
+      "lat": 41.306002,
+      "lon": -7.724578
+    }
+  },
+  {
+    "id": "2286",
+    "name": "COTORINHO",
+    "nameShort": "2286",
+    "position": {
+      "lat": 41.266844,
+      "lon": -7.869659
+    }
+  },
+  {
+    "id": "2259",
+    "name": "COUTO",
+    "nameShort": "2259",
+    "position": {
+      "lat": 41.3457748392,
+      "lon": -7.7421668084
+    }
+  },
+  {
+    "id": "1033",
+    "name": "COUTO",
+    "nameShort": "1033",
+    "position": {
+      "lat": 41.286879,
+      "lon": -7.711913
+    }
+  },
+  {
+    "id": "1037",
+    "name": "COUTO",
+    "nameShort": "1037",
+    "position": {
+      "lat": 41.286745,
+      "lon": -7.711751
+    }
+  },
+  {
+    "id": "1333",
+    "name": "CR. FLORES",
+    "nameShort": "1333",
+    "position": {
+      "lat": 41.3150312406,
+      "lon": -7.7331363929
+    }
+  },
+  {
+    "id": "2281",
+    "name": "CRAVELAS DE CIMA",
+    "nameShort": "2281",
+    "position": {
+      "lat": 41.347824,
+      "lon": -7.76398
+    }
+  },
+  {
+    "id": "1336",
+    "name": "CRUZ. ZONA INDUSTRIAL",
+    "nameShort": "1336",
+    "position": {
+      "lat": 41.27496,
+      "lon": -7.713009
+    }
+  },
+  {
+    "id": "1027",
+    "name": "CRUZAMENTO DE FOLHADELA",
+    "nameShort": "1027",
+    "position": {
+      "lat": 41.283197,
+      "lon": -7.731065
+    }
+  },
+  {
+    "id": "1011",
+    "name": "CRUZAMENTO DE FOLHADELA",
+    "nameShort": "1011",
+    "position": {
+      "lat": 41.283208,
+      "lon": -7.731259
+    }
+  },
+  {
+    "id": "1032",
+    "name": "CRUZAMENTO DO COUTO",
+    "nameShort": "1032",
+    "position": {
+      "lat": 41.28591,
+      "lon": -7.707704
+    }
+  },
+  {
+    "id": "1036",
+    "name": "CRUZAMENTO DO COUTO",
+    "nameShort": "1036",
+    "position": {
+      "lat": 41.285826,
+      "lon": -7.707693
+    }
+  },
+  {
+    "id": "1364",
+    "name": "CRZ. STº ANTÓNIO",
+    "nameShort": "1364",
+    "position": {
+      "lat": 41.2951586027,
+      "lon": -7.7289899524
+    }
+  },
+  {
+    "id": "1335",
+    "name": "CRZ. STº ANTÓNIO",
+    "nameShort": "1335",
+    "position": {
+      "lat": 41.294649,
+      "lon": -7.729121
+    }
+  },
+  {
+    "id": "1094",
+    "name": "CURVA DA TIMPEIRA",
+    "nameShort": "1094",
+    "position": {
+      "lat": 41.309261,
+      "lon": -7.730977
+    }
+  },
+  {
+    "id": "1112",
+    "name": "CURVA DA TIMPEIRA",
+    "nameShort": "1112",
+    "position": {
+      "lat": 41.309378,
+      "lon": -7.731177
+    }
+  },
+  {
+    "id": "1047",
+    "name": "DEI",
+    "nameShort": "1047",
+    "position": {
+      "lat": 41.322976,
+      "lon": -7.730199
+    }
+  },
+  {
+    "id": "2274",
+    "name": "DORNELAS",
+    "nameShort": "2274",
+    "position": {
+      "lat": 41.383071,
+      "lon": -7.806658
+    }
+  },
+  {
+    "id": "1145",
+    "name": "EDIFICIO FRAGA",
+    "nameShort": "1145",
+    "position": {
+      "lat": 41.297713,
+      "lon": -7.754839
+    }
+  },
+  {
+    "id": "2237",
+    "name": "ERMIDA / CARRAZEDO",
+    "nameShort": "2237",
+    "position": {
+      "lat": 41.2364591139,
+      "lon": -7.7392323221
+    }
+  },
+  {
+    "id": "2306",
+    "name": "ESCARIZ",
+    "nameShort": "2306",
+    "position": {
+      "lat": 41.361385,
+      "lon": -7.718857
+    }
+  },
+  {
+    "id": "2307",
+    "name": "ESCARIZ CAPELA",
+    "nameShort": "2307",
+    "position": {
+      "lat": 41.356479,
+      "lon": -7.720548
+    }
+  },
+  {
+    "id": "1158",
+    "name": "ESCOLA DE S. PEDRO",
+    "nameShort": "1158",
+    "position": {
+      "lat": 41.301499,
+      "lon": -7.744551
+    }
+  },
+  {
+    "id": "1073",
+    "name": "ESCOLAS ARAUCÁRIA",
+    "nameShort": "1073",
+    "position": {
+      "lat": 41.294679,
+      "lon": -7.724629
+    }
+  },
+  {
+    "id": "1077",
+    "name": "ESCOLAS ARAUCÁRIA",
+    "nameShort": "1077",
+    "position": {
+      "lat": 41.294787,
+      "lon": -7.724659
+    }
+  },
+  {
+    "id": "1159",
+    "name": "ESTAÇÃO CP",
+    "nameShort": "1159",
+    "position": {
+      "lat": 41.2944741368,
+      "lon": -7.7389481923
+    }
+  },
+  {
+    "id": "1174",
+    "name": "ESTAÇÃO CP",
+    "nameShort": "1174",
+    "position": {
+      "lat": 41.2948995539,
+      "lon": -7.737879746
+    }
+  },
+  {
+    "id": "2104",
+    "name": "ESTALAGEM NOVA",
+    "nameShort": "2104",
+    "position": {
+      "lat": 41.287124,
+      "lon": -7.865306
+    }
+  },
+  {
+    "id": "2250",
+    "name": "ESTRADA",
+    "nameShort": "2250",
+    "position": {
+      "lat": 41.2024317264,
+      "lon": -7.7017242243
+    }
+  },
+  {
+    "id": "1326",
+    "name": "FAPOMOVEL",
+    "nameShort": "1326",
+    "position": {
+      "lat": 41.276386,
+      "lon": -7.709249
+    }
+  },
+  {
+    "id": "2279",
+    "name": "FARELÃES",
+    "nameShort": "2279",
+    "position": {
+      "lat": 41.270497,
+      "lon": -7.849815
+    }
+  },
+  {
+    "id": "2107",
+    "name": "FELGUEIRAS (FORTUNHO)",
+    "nameShort": "2107",
+    "position": {
+      "lat": 41.3492791571,
+      "lon": -7.6985568158
+    }
+  },
+  {
+    "id": "2108",
+    "name": "FERREIROS",
+    "nameShort": "2108",
+    "position": {
+      "lat": 41.3277305,
+      "lon": -7.74159686
+    }
+  },
+  {
+    "id": "2109",
+    "name": "FERREIROS X",
+    "nameShort": "2109",
+    "position": {
+      "lat": 41.3217171131,
+      "lon": -7.7434562935
+    }
+  },
+  {
+    "id": "1173",
+    "name": "FLORES",
+    "nameShort": "1173",
+    "position": {
+      "lat": 41.315585,
+      "lon": -7.729825
+    }
+  },
+  {
+    "id": "1048",
+    "name": "FLORES",
+    "nameShort": "1048",
+    "position": {
+      "lat": 41.315649,
+      "lon": -7.729827
+    }
+  },
+  {
+    "id": "1049",
+    "name": "FLORES TERMINAL",
+    "nameShort": "1049",
+    "position": {
+      "lat": 41.317353,
+      "lon": -7.727196
+    }
+  },
+  {
+    "id": "1026",
+    "name": "FOLHADELA",
+    "nameShort": "1026",
+    "position": {
+      "lat": 41.280619,
+      "lon": -7.737226
+    }
+  },
+  {
+    "id": "1012",
+    "name": "FOLHADELA",
+    "nameShort": "1012",
+    "position": {
+      "lat": 41.280596,
+      "lon": -7.737208
+    }
+  },
+  {
+    "id": "1040",
+    "name": "FONTE DA RAINHA",
+    "nameShort": "1040",
+    "position": {
+      "lat": 41.29163,
+      "lon": -7.758683
+    }
+  },
+  {
+    "id": "2241",
+    "name": "FONTEITA",
+    "nameShort": "2241",
+    "position": {
+      "lat": 41.253837,
+      "lon": -7.665693
+    }
+  },
+  {
+    "id": "2320",
+    "name": "FONTELA",
+    "nameShort": "2320",
+    "position": {
+      "lat": 41.335326,
+      "lon": -7.731159
+    }
+  },
+  {
+    "id": "2289",
+    "name": "FONTELO",
+    "nameShort": "2289",
+    "position": {
+      "lat": 41.220636,
+      "lon": -7.686887
+    }
+  },
+  {
+    "id": "2114",
+    "name": "FORTUNHO",
+    "nameShort": "2114",
+    "position": {
+      "lat": 41.3562839,
+      "lon": -7.69919398
+    }
+  },
+  {
+    "id": "2251",
+    "name": "FOZ",
+    "nameShort": "2251",
+    "position": {
+      "lat": 41.2866314493,
+      "lon": -7.8331212353
+    }
+  },
+  {
+    "id": "2041",
+    "name": "GACHE",
+    "nameShort": "2041",
+    "position": {
+      "lat": 41.317033,
+      "lon": -7.642453
+    }
+  },
+  {
+    "id": "2040",
+    "name": "GACHE X",
+    "nameShort": "2040",
+    "position": {
+      "lat": 41.3291170528,
+      "lon": -7.6294903141
+    }
+  },
+  {
+    "id": "2268",
+    "name": "GALAFURA",
+    "nameShort": "2268",
+    "position": {
+      "lat": 41.187572,
+      "lon": -7.688859
+    }
+  },
+  {
+    "id": "2270",
+    "name": "GALEGOS DA SERRA",
+    "nameShort": "2270",
+    "position": {
+      "lat": 41.323472,
+      "lon": -7.804992
+    }
+  },
+  {
+    "id": "1057",
+    "name": "GARAGEM S. CRISTOVÃO",
+    "nameShort": "1057",
+    "position": {
+      "lat": 41.277629,
+      "lon": -7.705666
+    }
+  },
+  {
+    "id": "2118",
+    "name": "GONTÃES",
+    "nameShort": "2118",
+    "position": {
+      "lat": 41.298134,
+      "lon": -7.836407
+    }
+  },
+  {
+    "id": "2120",
+    "name": "GRANJA (VR)",
+    "nameShort": "2120",
+    "position": {
+      "lat": 41.278204,
+      "lon": -7.779162
+    }
+  },
+  {
+    "id": "2252",
+    "name": "GRANJA I",
+    "nameShort": "2252",
+    "position": {
+      "lat": 41.2783084033,
+      "lon": -7.7728800247
+    }
+  },
+  {
+    "id": "2315",
+    "name": "GRAVELOS",
+    "nameShort": "2315",
+    "position": {
+      "lat": 41.339726,
+      "lon": -7.724043
+    }
+  },
+  {
+    "id": "2314",
+    "name": "GRAVELOS EN2",
+    "nameShort": "2314",
+    "position": {
+      "lat": 41.340635,
+      "lon": -7.724263
+    }
+  },
+  {
+    "id": "2248",
+    "name": "GUIÃES",
+    "nameShort": "2248",
+    "position": {
+      "lat": 41.2089502927,
+      "lon": -7.6610574881
+    }
+  },
+  {
+    "id": "2247",
+    "name": "GUIÃES X",
+    "nameShort": "2247",
+    "position": {
+      "lat": 41.2153954736,
+      "lon": -7.6690214761
+    }
+  },
+  {
+    "id": "2230",
+    "name": "GULPILHARES",
+    "nameShort": "2230",
+    "position": {
+      "lat": 41.296765196,
+      "lon": -7.795179484
+    }
+  },
+  {
+    "id": "2122",
+    "name": "GULPILHARES - SAPIÕES",
+    "nameShort": "2122",
+    "position": {
+      "lat": 41.29884574,
+      "lon": -7.80148166
+    }
+  },
+  {
+    "id": "1225",
+    "name": "HOSPITAL",
+    "nameShort": "1225",
+    "position": {
+      "lat": 41.308582,
+      "lon": -7.758657
+    }
+  },
+  {
+    "id": "1361",
+    "name": "HOSPITAL DA TROFA",
+    "nameShort": "1361",
+    "position": {
+      "lat": 41.2965739636,
+      "lon": -7.7356989552
+    }
+  },
+  {
+    "id": "1055",
+    "name": "IEFP",
+    "nameShort": "1055",
+    "position": {
+      "lat": 41.276375,
+      "lon": -7.704415
+    }
+  },
+  {
+    "id": "1090",
+    "name": "IGREJA NOSSA SRª CONCEIÇÃO",
+    "nameShort": "1090",
+    "position": {
+      "lat": 41.306446,
+      "lon": -7.744067
+    }
+  },
+  {
+    "id": "1160",
+    "name": "IGREJA S. PEDRO",
+    "nameShort": "1160",
+    "position": {
+      "lat": 41.298717,
+      "lon": -7.74307
+    }
+  },
+  {
+    "id": "1093",
+    "name": "IGREJA STº ANTÓNIO",
+    "nameShort": "1093",
+    "position": {
+      "lat": 41.295195,
+      "lon": -7.72828
+    }
+  },
+  {
+    "id": "1113",
+    "name": "IGREJA STº ANTÓNIO",
+    "nameShort": "1113",
+    "position": {
+      "lat": 41.295251,
+      "lon": -7.728076
+    }
+  },
+  {
+    "id": "1226",
+    "name": "INSTITUTO DE MEDICINA LEGAL",
+    "nameShort": "1226",
+    "position": {
+      "lat": 41.311495,
+      "lon": -7.759687
+    }
+  },
+  {
+    "id": "1221",
+    "name": "INSTITUTO DE MEDICINA LEGAL",
+    "nameShort": "1221",
+    "position": {
+      "lat": 41.311304,
+      "lon": -7.759506
+    }
+  },
+  {
+    "id": "1132",
+    "name": "INTERMARCHÉ",
+    "nameShort": "1132",
+    "position": {
+      "lat": 41.310115,
+      "lon": -7.724519
+    }
+  },
+  {
+    "id": "1161",
+    "name": "JARDIM DA CARREIRA",
+    "nameShort": "1161",
+    "position": {
+      "lat": 41.300321,
+      "lon": -7.741557
+    }
+  },
+  {
+    "id": "1172",
+    "name": "JARDIM DA CARREIRA",
+    "nameShort": "1172",
+    "position": {
+      "lat": 41.300244,
+      "lon": -7.741445
+    }
+  },
+  {
+    "id": "2269",
+    "name": "JORJAIS",
+    "nameShort": "2269",
+    "position": {
+      "lat": 41.236557,
+      "lon": -7.682638
+    }
+  },
+  {
+    "id": "2125",
+    "name": "JORJAIS (MOUÇÓS)",
+    "nameShort": "2125",
+    "position": {
+      "lat": 41.33754055,
+      "lon": -7.69908201
+    }
+  },
+  {
+    "id": "2243",
+    "name": "JORJAIS X",
+    "nameShort": "2243",
+    "position": {
+      "lat": 41.237437,
+      "lon": -7.669021
+    }
+  },
+  {
+    "id": "2293",
+    "name": "JUNTA DE FREGUESIA DE VALE DE NOGUEIRAS",
+    "nameShort": "2293",
+    "position": {
+      "lat": 41.291713,
+      "lon": -7.672276
+    }
+  },
+  {
+    "id": "2126",
+    "name": "JUSTES",
+    "nameShort": "2126",
+    "position": {
+      "lat": 41.3474564582,
+      "lon": -7.6198901604
+    }
+  },
+  {
+    "id": "2267",
+    "name": "JUSTES R. AGONIA",
+    "nameShort": "2267",
+    "position": {
+      "lat": 41.35317811,
+      "lon": -7.6184010892
+    }
+  },
+  {
+    "id": "2127",
+    "name": "JUSTES X",
+    "nameShort": "2127",
+    "position": {
+      "lat": 41.3562183041,
+      "lon": -7.6214675605
+    }
+  },
+  {
+    "id": "2060",
+    "name": "LAGARES",
+    "nameShort": "2060",
+    "position": {
+      "lat": 41.3318402302,
+      "lon": -7.6436655042
+    }
+  },
+  {
+    "id": "2064",
+    "name": "LAGE",
+    "nameShort": "2064",
+    "position": {
+      "lat": 41.3111639417,
+      "lon": -7.6952721631
+    }
+  },
+  {
+    "id": "2262",
+    "name": "LAJE I",
+    "nameShort": "2262",
+    "position": {
+      "lat": 41.3088630704,
+      "lon": -7.6976637396
+    }
+  },
+  {
+    "id": "2039",
+    "name": "LAMARES",
+    "nameShort": "2039",
+    "position": {
+      "lat": 41.3314751208,
+      "lon": -7.6321092338
+    }
+  },
+  {
+    "id": "2128",
+    "name": "LAMAS DE OLO",
+    "nameShort": "2128",
+    "position": {
+      "lat": 41.3704914579,
+      "lon": -7.7974833147
+    }
+  },
+  {
+    "id": "1064",
+    "name": "LARGO",
+    "nameShort": "1064",
+    "position": {
+      "lat": 41.283418,
+      "lon": -7.699009
+    }
+  },
+  {
+    "id": "1067",
+    "name": "LARGO",
+    "nameShort": "1067",
+    "position": {
+      "lat": 41.283282,
+      "lon": -7.698619
+    }
+  },
+  {
+    "id": "2129",
+    "name": "LAVARQUEIRA",
+    "nameShort": "2129",
+    "position": {
+      "lat": 41.30876532,
+      "lon": -7.76692148
+    }
+  },
+  {
+    "id": "1220",
+    "name": "LAVERQUEIRA",
+    "nameShort": "1220",
+    "position": {
+      "lat": 41.309688,
+      "lon": -7.767561
+    }
+  },
+  {
+    "id": "2130",
+    "name": "LEIRÓS",
+    "nameShort": "2130",
+    "position": {
+      "lat": 41.35435925,
+      "lon": -7.64614493
+    }
+  },
+  {
+    "id": "2132",
+    "name": "LINHARES",
+    "nameShort": "2132",
+    "position": {
+      "lat": 41.36124932,
+      "lon": -7.65316136
+    }
+  },
+  {
+    "id": "2133",
+    "name": "LINHARES X",
+    "nameShort": "2133",
+    "position": {
+      "lat": 41.3626148898,
+      "lon": -7.6566248895
+    }
+  },
+  {
+    "id": "1227",
+    "name": "LORDELO",
+    "nameShort": "1227",
+    "position": {
+      "lat": 41.316143,
+      "lon": -7.766497
+    }
+  },
+  {
+    "id": "1338",
+    "name": "LORDELO",
+    "nameShort": "1338",
+    "position": {
+      "lat": 41.316182339,
+      "lon": -7.7663924391
+    }
+  },
+  {
+    "id": "2042",
+    "name": "LUDARES",
+    "nameShort": "2042",
+    "position": {
+      "lat": 41.2972476707,
+      "lon": -7.6485873834
+    }
+  },
+  {
+    "id": "2292",
+    "name": "LUDARES CENTRO",
+    "nameShort": "2292",
+    "position": {
+      "lat": 41.297714,
+      "lon": -7.644958
+    }
+  },
+  {
+    "id": "1229",
+    "name": "LUGAR DO BOQUE",
+    "nameShort": "1229",
+    "position": {
+      "lat": 41.309381,
+      "lon": -7.725196
+    }
+  },
+  {
+    "id": "1114",
+    "name": "LUGAR DO BOQUE",
+    "nameShort": "1114",
+    "position": {
+      "lat": 41.310266,
+      "lon": -7.725131
+    }
+  },
+  {
+    "id": "1092",
+    "name": "LUGAR DO BOQUE",
+    "nameShort": "1092",
+    "position": {
+      "lat": 41.309189,
+      "lon": -7.725793
+    }
+  },
+  {
+    "id": "2242",
+    "name": "MAGALHÃ",
+    "nameShort": "2242",
+    "position": {
+      "lat": 41.2413769529,
+      "lon": -7.6554141324
+    }
+  },
+  {
+    "id": "2135",
+    "name": "MAGARELOS",
+    "nameShort": "2135",
+    "position": {
+      "lat": 41.31805551,
+      "lon": -7.66455267
+    }
+  },
+  {
+    "id": "2276",
+    "name": "MASCOSELO",
+    "nameShort": "2276",
+    "position": {
+      "lat": 41.317162,
+      "lon": -7.875381
+    }
+  },
+  {
+    "id": "1072",
+    "name": "MATEUS",
+    "nameShort": "1072",
+    "position": {
+      "lat": 41.300557,
+      "lon": -7.716277
+    }
+  },
+  {
+    "id": "1078",
+    "name": "MATEUS",
+    "nameShort": "1078",
+    "position": {
+      "lat": 41.300593,
+      "lon": -7.716127
+    }
+  },
+  {
+    "id": "2021",
+    "name": "MATEUS",
+    "nameShort": "2021",
+    "position": {
+      "lat": 41.2970840507,
+      "lon": -7.7113335338
+    }
+  },
+  {
+    "id": "2046",
+    "name": "MATEUS X",
+    "nameShort": "2046",
+    "position": {
+      "lat": 41.2994915433,
+      "lon": -7.7162341569
+    }
+  },
+  {
+    "id": "2137",
+    "name": "MENEZES",
+    "nameShort": "2137",
+    "position": {
+      "lat": 41.27006,
+      "lon": -7.817567
+    }
+  },
+  {
+    "id": "1207",
+    "name": "MERCADO",
+    "nameShort": "1207",
+    "position": {
+      "lat": 41.299499,
+      "lon": -7.745112
+    }
+  },
+  {
+    "id": "1115",
+    "name": "MERCADO",
+    "nameShort": "1115",
+    "position": {
+      "lat": 41.299936,
+      "lon": -7.745383
+    }
+  },
+  {
+    "id": "1131",
+    "name": "MERCADO LATERAL",
+    "nameShort": "1131",
+    "position": {
+      "lat": 41.29931,
+      "lon": -7.746976
+    }
+  },
+  {
+    "id": "2138",
+    "name": "MEROUÇOS",
+    "nameShort": "2138",
+    "position": {
+      "lat": 41.3234877945,
+      "lon": -7.6873565219
+    }
+  },
+  {
+    "id": "1045",
+    "name": "MINAS",
+    "nameShort": "1045",
+    "position": {
+      "lat": 41.289686,
+      "lon": -7.757937
+    }
+  },
+  {
+    "id": "2141",
+    "name": "MOÇÃES IGREJA",
+    "nameShort": "2141",
+    "position": {
+      "lat": 41.26900476,
+      "lon": -7.80977651
+    }
+  },
+  {
+    "id": "2143",
+    "name": "MONDRÕES",
+    "nameShort": "2143",
+    "position": {
+      "lat": 41.29353755,
+      "lon": -7.79281474
+    }
+  },
+  {
+    "id": "2229",
+    "name": "MONDRÕES (JUNTA)",
+    "nameShort": "2229",
+    "position": {
+      "lat": 41.2919572014,
+      "lon": -7.7881707057
+    }
+  },
+  {
+    "id": "2144",
+    "name": "MONDRÕES X",
+    "nameShort": "2144",
+    "position": {
+      "lat": 41.29225162,
+      "lon": -7.77685449
+    }
+  },
+  {
+    "id": "2153",
+    "name": "MONTE DA FORCA",
+    "nameShort": "2153",
+    "position": {
+      "lat": 41.2849193256,
+      "lon": -7.7600984443
+    }
+  },
+  {
+    "id": "1044",
+    "name": "MONTE DA FORCA",
+    "nameShort": "1044",
+    "position": {
+      "lat": 41.284618,
+      "lon": -7.759796
+    }
+  },
+  {
+    "id": "2277",
+    "name": "MONTES",
+    "nameShort": "2277",
+    "position": {
+      "lat": 41.266522,
+      "lon": -7.877822
+    }
+  },
+  {
+    "id": "2027",
+    "name": "MOSTEIRÔ",
+    "nameShort": "2027",
+    "position": {
+      "lat": 41.2514125073,
+      "lon": -7.7000614477
+    }
+  },
+  {
+    "id": "2287",
+    "name": "MOSTEIRÔ X",
+    "nameShort": "2287",
+    "position": {
+      "lat": 41.266721,
+      "lon": -7.697292
+    }
+  },
+  {
+    "id": "1056",
+    "name": "MOTOMETER",
+    "nameShort": "1056",
+    "position": {
+      "lat": 41.273663,
+      "lon": -7.7046
+    }
+  },
+  {
+    "id": "2063",
+    "name": "MOUÇÓS",
+    "nameShort": "2063",
+    "position": {
+      "lat": 41.3143345843,
+      "lon": -7.6940626696
+    }
+  },
+  {
+    "id": "2146",
+    "name": "MOUÇÓS (C. ESCOLAR)",
+    "nameShort": "2146",
+    "position": {
+      "lat": 41.31503,
+      "lon": -7.696114
+    }
+  },
+  {
+    "id": "2148",
+    "name": "MUAS",
+    "nameShort": "2148",
+    "position": {
+      "lat": 41.3358824572,
+      "lon": -7.7841106713
+    }
+  },
+  {
+    "id": "1162",
+    "name": "MUSEU",
+    "nameShort": "1162",
+    "position": {
+      "lat": 41.297426,
+      "lon": -7.743211
+    }
+  },
+  {
+    "id": "1206",
+    "name": "MUSEU",
+    "nameShort": "1206",
+    "position": {
+      "lat": 41.297459,
+      "lon": -7.743302
+    }
+  },
+  {
+    "id": "1337",
+    "name": "NÓ IP4",
+    "nameShort": "1337",
+    "position": {
+      "lat": 41.30299,
+      "lon": -7.751209
+    }
+  },
+  {
+    "id": "1091",
+    "name": "NÓ IP4",
+    "nameShort": "1091",
+    "position": {
+      "lat": 41.30316,
+      "lon": -7.751641
+    }
+  },
+  {
+    "id": "1116",
+    "name": "NOSSA SRª CONCEIÇÃO",
+    "nameShort": "1116",
+    "position": {
+      "lat": 41.305366,
+      "lon": -7.744755
+    }
+  },
+  {
+    "id": "2151",
+    "name": "OUTEIRO",
+    "nameShort": "2151",
+    "position": {
+      "lat": 41.337997,
+      "lon": -7.748654
+    }
+  },
+  {
+    "id": "2282",
+    "name": "PAI CORRÃO",
+    "nameShort": "2282",
+    "position": {
+      "lat": 41.243059,
+      "lon": -7.752827
+    }
+  },
+  {
+    "id": "2294",
+    "name": "PANOIAS",
+    "nameShort": "2294",
+    "position": {
+      "lat": 41.282222,
+      "lon": -7.683995
+    }
+  },
+  {
+    "id": "2017",
+    "name": "PANOIAS X",
+    "nameShort": "2017",
+    "position": {
+      "lat": 41.2804101926,
+      "lon": -7.686665259
+    }
+  },
+  {
+    "id": "2278",
+    "name": "PARADA",
+    "nameShort": "2278",
+    "position": {
+      "lat": 41.278665,
+      "lon": -7.866448
+    }
+  },
+  {
+    "id": "1043",
+    "name": "PARADA DE CUNHOS",
+    "nameShort": "1043",
+    "position": {
+      "lat": 41.284237,
+      "lon": -7.763173
+    }
+  },
+  {
+    "id": "2313",
+    "name": "PAREDES",
+    "nameShort": "2313",
+    "position": {
+      "lat": 41.35874,
+      "lon": -7.728876
+    }
+  },
+  {
+    "id": "2311",
+    "name": "PAREDES (X)",
+    "nameShort": "2311",
+    "position": {
+      "lat": 41.353127,
+      "lon": -7.72894
+    }
+  },
+  {
+    "id": "2312",
+    "name": "PAREDES 2",
+    "nameShort": "2312",
+    "position": {
+      "lat": 41.356135,
+      "lon": -7.729414
+    }
+  },
+  {
+    "id": "1205",
+    "name": "PARQUE FLORESTAL",
+    "nameShort": "1205",
+    "position": {
+      "lat": 41.299571,
+      "lon": -7.741178
+    }
+  },
+  {
+    "id": "1191",
+    "name": "PARQUE FLORESTAL",
+    "nameShort": "1191",
+    "position": {
+      "lat": 41.299793,
+      "lon": -7.740983
+    }
+  },
+  {
+    "id": "2240",
+    "name": "PASSAGEM",
+    "nameShort": "2240",
+    "position": {
+      "lat": 41.253762,
+      "lon": -7.684328
+    }
+  },
+  {
+    "id": "1339",
+    "name": "PEDREGAL",
+    "nameShort": "1339",
+    "position": {
+      "lat": 41.317703,
+      "lon": -7.770504
+    }
+  },
+  {
+    "id": "1340",
+    "name": "PEDREGAL",
+    "nameShort": "1340",
+    "position": {
+      "lat": 41.317618,
+      "lon": -7.770538
+    }
+  },
+  {
+    "id": "2157",
+    "name": "PENA",
+    "nameShort": "2157",
+    "position": {
+      "lat": 41.29219378,
+      "lon": -7.81447579
+    }
+  },
+  {
+    "id": "2261",
+    "name": "PENA DE AMIGO",
+    "nameShort": "2261",
+    "position": {
+      "lat": 41.318313,
+      "lon": -7.684709
+    }
+  },
+  {
+    "id": "2236",
+    "name": "PENELAS",
+    "nameShort": "2236",
+    "position": {
+      "lat": 41.2405308994,
+      "lon": -7.7387517871
+    }
+  },
+  {
+    "id": "2158",
+    "name": "PEPE",
+    "nameShort": "2158",
+    "position": {
+      "lat": 41.3009377814,
+      "lon": -7.8708974364
+    }
+  },
+  {
+    "id": "1190",
+    "name": "PINGO DE AGUA",
+    "nameShort": "1190",
+    "position": {
+      "lat": 41.307556,
+      "lon": -7.745002
+    }
+  },
+  {
+    "id": "1204",
+    "name": "PINGO DE AGUA",
+    "nameShort": "1204",
+    "position": {
+      "lat": 41.307563,
+      "lon": -7.74485
+    }
+  },
+  {
+    "id": "1089",
+    "name": "PIOLEDO",
+    "nameShort": "1089",
+    "position": {
+      "lat": 41.300071,
+      "lon": -7.743597
+    }
+  },
+  {
+    "id": "1203",
+    "name": "PISCINAS",
+    "nameShort": "1203",
+    "position": {
+      "lat": 41.305121,
+      "lon": -7.733665
+    }
+  },
+  {
+    "id": "1189",
+    "name": "PISCINAS",
+    "nameShort": "1189",
+    "position": {
+      "lat": 41.305154,
+      "lon": -7.733775
+    }
+  },
+  {
+    "id": "2222",
+    "name": "POMARELHOS",
+    "nameShort": "2222",
+    "position": {
+      "lat": 41.255477,
+      "lon": -7.785325
+    }
+  },
+  {
+    "id": "2163",
+    "name": "PONTE",
+    "nameShort": "2163",
+    "position": {
+      "lat": 41.32075774,
+      "lon": -7.7112835
+    }
+  },
+  {
+    "id": "1042",
+    "name": "PONTE CABRIL",
+    "nameShort": "1042",
+    "position": {
+      "lat": 41.293572,
+      "lon": -7.756883
+    }
+  },
+  {
+    "id": "1039",
+    "name": "PONTE CABRIL",
+    "nameShort": "1039",
+    "position": {
+      "lat": 41.293613,
+      "lon": -7.757012
+    }
+  },
+  {
+    "id": "2100",
+    "name": "PONTE X",
+    "nameShort": "2100",
+    "position": {
+      "lat": 41.314777,
+      "lon": -7.713089
+    }
+  },
+  {
+    "id": "2264",
+    "name": "PORTELA",
+    "nameShort": "2264",
+    "position": {
+      "lat": 41.268885,
+      "lon": -7.703606
+    }
+  },
+  {
+    "id": "2291",
+    "name": "POUSADA",
+    "nameShort": "2291",
+    "position": {
+      "lat": 41.278392,
+      "lon": -7.858879
+    }
+  },
+  {
+    "id": "2238",
+    "name": "POVOAÇÃO",
+    "nameShort": "2238",
+    "position": {
+      "lat": 41.2225761208,
+      "lon": -7.751146073
+    }
+  },
+  {
+    "id": "1171",
+    "name": "PR. 25 ABRIL",
+    "nameShort": "1171",
+    "position": {
+      "lat": 41.308012,
+      "lon": -7.736206
+    }
+  },
+  {
+    "id": "1164",
+    "name": "PR. 25 ABRIL",
+    "nameShort": "1164",
+    "position": {
+      "lat": 41.308306,
+      "lon": -7.73605
+    }
+  },
+  {
+    "id": "1170",
+    "name": "PR. 25 ABRIL (QUARTEL)",
+    "nameShort": "1170",
+    "position": {
+      "lat": 41.309593,
+      "lon": -7.736096
+    }
+  },
+  {
+    "id": "1163",
+    "name": "PR. 25 ABRIL (QUARTEL)",
+    "nameShort": "1163",
+    "position": {
+      "lat": 41.30975,
+      "lon": -7.735868
+    }
+  },
+  {
+    "id": "1117",
+    "name": "PRAÇA DA GALIZA",
+    "nameShort": "1117",
+    "position": {
+      "lat": 41.292341,
+      "lon": -7.736216
+    }
+  },
+  {
+    "id": "1188",
+    "name": "PRAÇA DA GALIZA",
+    "nameShort": "1188",
+    "position": {
+      "lat": 41.292502,
+      "lon": -7.736396
+    }
+  },
+  {
+    "id": "2170",
+    "name": "PRADO",
+    "nameShort": "2170",
+    "position": {
+      "lat": 41.31892631,
+      "lon": -7.74282497
+    }
+  },
+  {
+    "id": "1367",
+    "name": "PUCARINHOS",
+    "nameShort": "1367",
+    "position": {
+      "lat": 41.298616,
+      "lon": -7.750485
+    }
+  },
+  {
+    "id": "1368",
+    "name": "PUCARINHOS",
+    "nameShort": "1368",
+    "position": {
+      "lat": 41.298251,
+      "lon": -7.750194
+    }
+  },
+  {
+    "id": "1187",
+    "name": "QTª DA ARAUCÁRIA",
+    "nameShort": "1187",
+    "position": {
+      "lat": 41.294545,
+      "lon": -7.734615
+    }
+  },
+  {
+    "id": "1202",
+    "name": "QTª DA ARAUCÁRIA",
+    "nameShort": "1202",
+    "position": {
+      "lat": 41.294475,
+      "lon": -7.734515
+    }
+  },
+  {
+    "id": "1218",
+    "name": "QTª DA PETISQUEIRA",
+    "nameShort": "1218",
+    "position": {
+      "lat": 41.307379,
+      "lon": -7.756941
+    }
+  },
+  {
+    "id": "1228",
+    "name": "QTª DA PETISQUEIRA",
+    "nameShort": "1228",
+    "position": {
+      "lat": 41.307466,
+      "lon": -7.755937
+    }
+  },
+  {
+    "id": "1217",
+    "name": "QTª DA VEIGA",
+    "nameShort": "1217",
+    "position": {
+      "lat": 41.307665,
+      "lon": -7.766912
+    }
+  },
+  {
+    "id": "1144",
+    "name": "QTª DAS BOTELHAS",
+    "nameShort": "1144",
+    "position": {
+      "lat": 41.296306,
+      "lon": -7.750518
+    }
+  },
+  {
+    "id": "1130",
+    "name": "QTª DAS BOTELHAS",
+    "nameShort": "1130",
+    "position": {
+      "lat": 41.296211,
+      "lon": -7.750709
+    }
+  },
+  {
+    "id": "1041",
+    "name": "QTª FONTE DA RAINHA",
+    "nameShort": "1041",
+    "position": {
+      "lat": 41.291635,
+      "lon": -7.757478
+    }
+  },
+  {
+    "id": "1201",
+    "name": "QTª MONTEZELOS",
+    "nameShort": "1201",
+    "position": {
+      "lat": 41.310432,
+      "lon": -7.744133
+    }
+  },
+  {
+    "id": "1186",
+    "name": "QTª MONTEZELOS",
+    "nameShort": "1186",
+    "position": {
+      "lat": 41.3101832451,
+      "lon": -7.7444473017
+    }
+  },
+  {
+    "id": "2227",
+    "name": "QUINTELA",
+    "nameShort": "2227",
+    "position": {
+      "lat": 41.300133223,
+      "lon": -7.7757471189
+    }
+  },
+  {
+    "id": "1366",
+    "name": "QUINTELAS",
+    "nameShort": "1366",
+    "position": {
+      "lat": 41.315463,
+      "lon": -7.796171
+    }
+  },
+  {
+    "id": "1088",
+    "name": "R. ADELINO SAMARDA",
+    "nameShort": "1088",
+    "position": {
+      "lat": 41.309569,
+      "lon": -7.741497
+    }
+  },
+  {
+    "id": "1118",
+    "name": "R. ADELINO SAMARDÃ",
+    "nameShort": "1118",
+    "position": {
+      "lat": 41.309662,
+      "lon": -7.741508
+    }
+  },
+  {
+    "id": "1119",
+    "name": "R. AUGUSTO CÉSAR",
+    "nameShort": "1119",
+    "position": {
+      "lat": 41.293999,
+      "lon": -7.728618
+    }
+  },
+  {
+    "id": "1087",
+    "name": "R. AUGUSTO CÉSAR",
+    "nameShort": "1087",
+    "position": {
+      "lat": 41.294107,
+      "lon": -7.728615
+    }
+  },
+  {
+    "id": "1169",
+    "name": "R. CMT. MORAIS SERRÃO",
+    "nameShort": "1169",
+    "position": {
+      "lat": 41.301912,
+      "lon": -7.749508
+    }
+  },
+  {
+    "id": "1165",
+    "name": "R. CMT. MORAIS SERRÃO",
+    "nameShort": "1165",
+    "position": {
+      "lat": 41.3018,
+      "lon": -7.74967
+    }
+  },
+  {
+    "id": "1143",
+    "name": "R. DE ALMODENA",
+    "nameShort": "1143",
+    "position": {
+      "lat": 41.297274,
+      "lon": -7.757036
+    }
+  },
+  {
+    "id": "1369",
+    "name": "R. DE SÃO MAMEDE",
+    "nameShort": "1369",
+    "position": {
+      "lat": 41.307844,
+      "lon": -7.74644
+    }
+  },
+  {
+    "id": "1066",
+    "name": "R. DO RIBEIRO",
+    "nameShort": "1066",
+    "position": {
+      "lat": 41.280098,
+      "lon": -7.693974
+    }
+  },
+  {
+    "id": "1370",
+    "name": "R. DOM AFONSO III 1",
+    "nameShort": "1370",
+    "position": {
+      "lat": 41.30348,
+      "lon": -7.746623
+    }
+  },
+  {
+    "id": "1371",
+    "name": "R. DOM AFONSO III 2",
+    "nameShort": "1371",
+    "position": {
+      "lat": 41.302213,
+      "lon": -7.747413
+    }
+  },
+  {
+    "id": "1230",
+    "name": "R. DR. MANUEL CARDONA",
+    "nameShort": "1230",
+    "position": {
+      "lat": 41.302831,
+      "lon": -7.738446
+    }
+  },
+  {
+    "id": "1142",
+    "name": "R. DR. NUNO SIMOES",
+    "nameShort": "1142",
+    "position": {
+      "lat": 41.305684,
+      "lon": -7.726516
+    }
+  },
+  {
+    "id": "1129",
+    "name": "R. DR. NUNO SIMOES",
+    "nameShort": "1129",
+    "position": {
+      "lat": 41.305694,
+      "lon": -7.726671
+    }
+  },
+  {
+    "id": "1141",
+    "name": "R. FIGUEIREDO",
+    "nameShort": "1141",
+    "position": {
+      "lat": 41.29678,
+      "lon": -7.755327
+    }
+  },
+  {
+    "id": "1120",
+    "name": "R. FREI MIGUEL CONTREIRAS",
+    "nameShort": "1120",
+    "position": {
+      "lat": 41.308787,
+      "lon": -7.740613
+    }
+  },
+  {
+    "id": "1079",
+    "name": "R. GASPAR SAMEIRO (1)",
+    "nameShort": "1079",
+    "position": {
+      "lat": 41.297427,
+      "lon": -7.720349
+    }
+  },
+  {
+    "id": "1071",
+    "name": "R. GASPAR SAMEIRO (1)",
+    "nameShort": "1071",
+    "position": {
+      "lat": 41.297492,
+      "lon": -7.720214
+    }
+  },
+  {
+    "id": "1070",
+    "name": "R. GASPAR SAMEIRO (2)",
+    "nameShort": "1070",
+    "position": {
+      "lat": 41.297835,
+      "lon": -7.723216
+    }
+  },
+  {
+    "id": "1080",
+    "name": "R. GASPAR SAMEIRO (2)",
+    "nameShort": "1080",
+    "position": {
+      "lat": 41.297745,
+      "lon": -7.72324
+    }
+  },
+  {
+    "id": "1121",
+    "name": "R. HEITOR CRAMEZ",
+    "nameShort": "1121",
+    "position": {
+      "lat": 41.310061,
+      "lon": -7.739862
+    }
+  },
+  {
+    "id": "1128",
+    "name": "R. ISABEL DE CARVALHO",
+    "nameShort": "1128",
+    "position": {
+      "lat": 41.298363,
+      "lon": -7.745216
+    }
+  },
+  {
+    "id": "1166",
+    "name": "R. MADAME BROUILLARD",
+    "nameShort": "1166",
+    "position": {
+      "lat": 41.292722,
+      "lon": -7.737624
+    }
+  },
+  {
+    "id": "1038",
+    "name": "R. MANUEL CARVALHO LEMOS",
+    "nameShort": "1038",
+    "position": {
+      "lat": 41.292428,
+      "lon": -7.757643
+    }
+  },
+  {
+    "id": "1029",
+    "name": "R. MANUEL SANTOS GOMES",
+    "nameShort": "1029",
+    "position": {
+      "lat": 41.293163,
+      "lon": -7.726043
+    }
+  },
+  {
+    "id": "1069",
+    "name": "R. MANUEL SANTOS GOMES",
+    "nameShort": "1069",
+    "position": {
+      "lat": 41.2932,
+      "lon": -7.725354
+    }
+  },
+  {
+    "id": "1139",
+    "name": "R. MIGUEL TORGA",
+    "nameShort": "1139",
+    "position": {
+      "lat": 41.29594,
+      "lon": -7.748083
+    }
+  },
+  {
+    "id": "1122",
+    "name": "R. MIGUEL TORGA",
+    "nameShort": "1122",
+    "position": {
+      "lat": 41.297387,
+      "lon": -7.748526
+    }
+  },
+  {
+    "id": "1138",
+    "name": "R. NOVA DAS BOTELHAS",
+    "nameShort": "1138",
+    "position": {
+      "lat": 41.295202,
+      "lon": -7.753522
+    }
+  },
+  {
+    "id": "1127",
+    "name": "R. NOVA DAS BOTELHAS",
+    "nameShort": "1127",
+    "position": {
+      "lat": 41.294994,
+      "lon": -7.754252
+    }
+  },
+  {
+    "id": "1185",
+    "name": "R. PINTOR M. BARRIAS",
+    "nameShort": "1185",
+    "position": {
+      "lat": 41.308781,
+      "lon": -7.744165
+    }
+  },
+  {
+    "id": "1200",
+    "name": "R. PINTOR M. BARRIAS",
+    "nameShort": "1200",
+    "position": {
+      "lat": 41.308764,
+      "lon": -7.744066
+    }
+  },
+  {
+    "id": "1063",
+    "name": "R. RIBEIRO",
+    "nameShort": "1063",
+    "position": {
+      "lat": 41.280143,
+      "lon": -7.69421
+    }
+  },
+  {
+    "id": "1199",
+    "name": "R. STª IRIA",
+    "nameShort": "1199",
+    "position": {
+      "lat": 41.305204,
+      "lon": -7.741934
+    }
+  },
+  {
+    "id": "1123",
+    "name": "R. STº ANTÓNIO",
+    "nameShort": "1123",
+    "position": {
+      "lat": 41.3034106365,
+      "lon": -7.7428190165
+    }
+  },
+  {
+    "id": "1086",
+    "name": "R. STº ANTÓNIO",
+    "nameShort": "1086",
+    "position": {
+      "lat": 41.30321,
+      "lon": -7.742621
+    }
+  },
+  {
+    "id": "1126",
+    "name": "R. TEIXEIRA M. E CASTRO",
+    "nameShort": "1126",
+    "position": {
+      "lat": 41.307403,
+      "lon": -7.72578
+    }
+  },
+  {
+    "id": "1140",
+    "name": "R. TEIXEIRA M. E CASTRO",
+    "nameShort": "1140",
+    "position": {
+      "lat": 41.307425,
+      "lon": -7.725474
+    }
+  },
+  {
+    "id": "1216",
+    "name": "R. VALADO",
+    "nameShort": "1216",
+    "position": {
+      "lat": 41.310993,
+      "lon": -7.765292
+    }
+  },
+  {
+    "id": "1215",
+    "name": "R.CONCELHO DE BOTICAS",
+    "nameShort": "1215",
+    "position": {
+      "lat": 41.30939,
+      "lon": -7.766415
+    }
+  },
+  {
+    "id": "1198",
+    "name": "R.D. PEDRO DE CASTRO",
+    "nameShort": "1198",
+    "position": {
+      "lat": 41.300545,
+      "lon": -7.749337
+    }
+  },
+  {
+    "id": "1184",
+    "name": "R.D. PEDRO DE CASTRO",
+    "nameShort": "1184",
+    "position": {
+      "lat": 41.300445,
+      "lon": -7.749165
+    }
+  },
+  {
+    "id": "1085",
+    "name": "R.HEITOR CRAMEZ",
+    "nameShort": "1085",
+    "position": {
+      "lat": 41.309915,
+      "lon": -7.739861
+    }
+  },
+  {
+    "id": "2065",
+    "name": "RAIA",
+    "nameShort": "2065",
+    "position": {
+      "lat": 41.301561551,
+      "lon": -7.7119897366
+    }
+  },
+  {
+    "id": "1351",
+    "name": "RAIA I",
+    "nameShort": "1351",
+    "position": {
+      "lat": 41.3032524547,
+      "lon": -7.7065936295
+    }
+  },
+  {
+    "id": "1341",
+    "name": "RAMADAS",
+    "nameShort": "1341",
+    "position": {
+      "lat": 41.322574,
+      "lon": -7.777915
+    }
+  },
+  {
+    "id": "1342",
+    "name": "RAMADAS",
+    "nameShort": "1342",
+    "position": {
+      "lat": 41.3225,
+      "lon": -7.77797
+    }
+  },
+  {
+    "id": "1062",
+    "name": "RANGINHA",
+    "nameShort": "1062",
+    "position": {
+      "lat": 41.279456,
+      "lon": -7.692207
+    }
+  },
+  {
+    "id": "2284",
+    "name": "REGIA-DOURO PARK",
+    "nameShort": "2284",
+    "position": {
+      "lat": 41.271335,
+      "lon": -7.694276
+    }
+  },
+  {
+    "id": "2285",
+    "name": "REGIA-DOURO PARK",
+    "nameShort": "2285",
+    "position": {
+      "lat": 41.271316,
+      "lon": -7.694149
+    }
+  },
+  {
+    "id": "2174",
+    "name": "RELVA",
+    "nameShort": "2174",
+    "position": {
+      "lat": 41.33230832,
+      "lon": -7.76925475
+    }
+  },
+  {
+    "id": "2288",
+    "name": "RELVAS",
+    "nameShort": "2288",
+    "position": {
+      "lat": 41.273871,
+      "lon": -7.759324
+    }
+  },
+  {
+    "id": "1050",
+    "name": "RESIDENCIA MILITAR",
+    "nameShort": "1050",
+    "position": {
+      "lat": 41.317874,
+      "lon": -7.732642
+    }
+  },
+  {
+    "id": "1084",
+    "name": "RIO CORGO",
+    "nameShort": "1084",
+    "position": {
+      "lat": 41.311155,
+      "lon": -7.728161
+    }
+  },
+  {
+    "id": "1353",
+    "name": "RUA DA GUIA",
+    "nameShort": "1353",
+    "position": {
+      "lat": 41.2965693054,
+      "lon": -7.7384378576
+    }
+  },
+  {
+    "id": "1331",
+    "name": "RUA V DA FONSECA",
+    "nameShort": "1331",
+    "position": {
+      "lat": 41.29873,
+      "lon": -7.74872
+    }
+  },
+  {
+    "id": "2177",
+    "name": "S. COSME",
+    "nameShort": "2177",
+    "position": {
+      "lat": 41.34950467,
+      "lon": -7.68528874
+    }
+  },
+  {
+    "id": "2020",
+    "name": "S. JOÃO",
+    "nameShort": "2020",
+    "position": {
+      "lat": 41.2927217407,
+      "lon": -7.7070064726
+    }
+  },
+  {
+    "id": "2180",
+    "name": "S. MIGUEL DA PENA",
+    "nameShort": "2180",
+    "position": {
+      "lat": 41.2958318035,
+      "lon": -7.8233552412
+    }
+  },
+  {
+    "id": "2182",
+    "name": "S. TOMÉ DO CASTELO",
+    "nameShort": "2182",
+    "position": {
+      "lat": 41.35370957,
+      "lon": -7.67390325
+    }
+  },
+  {
+    "id": "2235",
+    "name": "SABROSO",
+    "nameShort": "2235",
+    "position": {
+      "lat": 41.2577758875,
+      "lon": -7.733964018
+    }
+  },
+  {
+    "id": "2299",
+    "name": "SAMARDÃ",
+    "nameShort": "2299",
+    "position": {
+      "lat": 41.407391,
+      "lon": -7.71474
+    }
+  },
+  {
+    "id": "2301",
+    "name": "SAMARDÃ (X)",
+    "nameShort": "2301",
+    "position": {
+      "lat": 41.396739,
+      "lon": -7.701239
+    }
+  },
+  {
+    "id": "2300",
+    "name": "SAMARDÃ LARGO",
+    "nameShort": "2300",
+    "position": {
+      "lat": 41.407359,
+      "lon": -7.71322
+    }
+  },
+  {
+    "id": "2061",
+    "name": "SANGUINHEDO",
+    "nameShort": "2061",
+    "position": {
+      "lat": 41.3365326754,
+      "lon": -7.6635376261
+    }
+  },
+  {
+    "id": "2257",
+    "name": "SANGUINHEDO I",
+    "nameShort": "2257",
+    "position": {
+      "lat": 41.3413532383,
+      "lon": -7.658580096
+    }
+  },
+  {
+    "id": "1324",
+    "name": "SCHOLLER",
+    "nameShort": "1324",
+    "position": {
+      "lat": 41.27562,
+      "lon": -7.70735
+    }
+  },
+  {
+    "id": "2187",
+    "name": "SIGARROSA",
+    "nameShort": "2187",
+    "position": {
+      "lat": 41.3312906448,
+      "lon": -7.7003153991
+    }
+  },
+  {
+    "id": "2231",
+    "name": "SIGARROSA I",
+    "nameShort": "2231",
+    "position": {
+      "lat": 41.32905587,
+      "lon": -7.7033738656
+    }
+  },
+  {
+    "id": "2283",
+    "name": "SIRARELHOS",
+    "nameShort": "2283",
+    "position": {
+      "lat": 41.319805,
+      "lon": -7.810953
+    }
+  },
+  {
+    "id": "2297",
+    "name": "TANHA",
+    "nameShort": "2297",
+    "position": {
+      "lat": 41.225861,
+      "lon": -7.721062
+    }
+  },
+  {
+    "id": "1332",
+    "name": "TERMINAL RODOVIÁRIO",
+    "nameShort": "1332",
+    "position": {
+      "lat": 41.299464,
+      "lon": -7.75009
+    }
+  },
+  {
+    "id": "2192",
+    "name": "TESTEIRA",
+    "nameShort": "2192",
+    "position": {
+      "lat": 41.3509483909,
+      "lon": -7.7460521094
+    }
+  },
+  {
+    "id": "2271",
+    "name": "TOJAIS",
+    "nameShort": "2271",
+    "position": {
+      "lat": 41.2991,
+      "lon": -7.688363
+    }
+  },
+  {
+    "id": "2193",
+    "name": "TORGUEDA",
+    "nameShort": "2193",
+    "position": {
+      "lat": 41.27399124,
+      "lon": -7.81354312
+    }
+  },
+  {
+    "id": "2194",
+    "name": "TORGUÊDA X",
+    "nameShort": "2194",
+    "position": {
+      "lat": 41.27724155,
+      "lon": -7.8148417
+    }
+  },
+  {
+    "id": "1031",
+    "name": "TORNEIROS",
+    "nameShort": "1031",
+    "position": {
+      "lat": 41.288695,
+      "lon": -7.716274
+    }
+  },
+  {
+    "id": "1035",
+    "name": "TORNEIROS",
+    "nameShort": "1035",
+    "position": {
+      "lat": 41.288607,
+      "lon": -7.716196
+    }
+  },
+  {
+    "id": "1013",
+    "name": "TORNEIROS",
+    "nameShort": "1013",
+    "position": {
+      "lat": 41.281637,
+      "lon": -7.722855
+    }
+  },
+  {
+    "id": "1025",
+    "name": "TORNEIROS",
+    "nameShort": "1025",
+    "position": {
+      "lat": 41.281744,
+      "lon": -7.722892
+    }
+  },
+  {
+    "id": "1372",
+    "name": "TORNEIROS PONTE DO SOBREIRO",
+    "nameShort": "1372",
+    "position": {
+      "lat": 41.290276,
+      "lon": -7.720999
+    }
+  },
+  {
+    "id": "1373",
+    "name": "TORNEIROS PONTE DO SOBREIRO",
+    "nameShort": "1373",
+    "position": {
+      "lat": 41.289843,
+      "lon": -7.720718
+    }
+  },
+  {
+    "id": "1151",
+    "name": "TORRES DAS FLORES",
+    "nameShort": "1151",
+    "position": {
+      "lat": 41.314058,
+      "lon": -7.732512
+    }
+  },
+  {
+    "id": "1051",
+    "name": "TORRES DAS FLORES",
+    "nameShort": "1051",
+    "position": {
+      "lat": 41.315073,
+      "lon": -7.732942
+    }
+  },
+  {
+    "id": "1167",
+    "name": "TRANSLAR",
+    "nameShort": "1167",
+    "position": {
+      "lat": 41.303788,
+      "lon": -7.748099
+    }
+  },
+  {
+    "id": "1183",
+    "name": "TRANSLAR",
+    "nameShort": "1183",
+    "position": {
+      "lat": 41.303857,
+      "lon": -7.74825
+    }
+  },
+  {
+    "id": "1196",
+    "name": "TRIBUNAL",
+    "nameShort": "1196",
+    "position": {
+      "lat": 41.2974756998,
+      "lon": -7.7456235998
+    }
+  },
+  {
+    "id": "1125",
+    "name": "TRIBUNAL",
+    "nameShort": "1125",
+    "position": {
+      "lat": 41.29764,
+      "lon": -7.746106
+    }
+  },
+  {
+    "id": "2198",
+    "name": "TUIZENDES",
+    "nameShort": "2198",
+    "position": {
+      "lat": 41.2624883877,
+      "lon": -7.8050245905
+    }
+  },
+  {
+    "id": "2296",
+    "name": "TUIZENDES IGREJA",
+    "nameShort": "2296",
+    "position": {
+      "lat": 41.26042,
+      "lon": -7.81061
+    }
+  },
+  {
+    "id": "2199",
+    "name": "TUIZENDES X",
+    "nameShort": "2199",
+    "position": {
+      "lat": 41.264492,
+      "lon": -7.799695
+    }
+  },
+  {
+    "id": "1059",
+    "name": "TUVR",
+    "nameShort": "1059",
+    "position": {
+      "lat": 41.277419,
+      "lon": -7.714132
+    }
+  },
+  {
+    "id": "1195",
+    "name": "URB. MONTEZELOS",
+    "nameShort": "1195",
+    "position": {
+      "lat": 41.3112374034,
+      "lon": -7.7436668828
+    }
+  },
+  {
+    "id": "2266",
+    "name": "URB. PAÇO SARDOEIRA",
+    "nameShort": "2266",
+    "position": {
+      "lat": 41.2817480599,
+      "lon": -7.8477357197
+    }
+  },
+  {
+    "id": "1009",
+    "name": "UTAD C. DESPORTIVO (1)",
+    "nameShort": "1009",
+    "position": {
+      "lat": 41.284516,
+      "lon": -7.737334
+    }
+  },
+  {
+    "id": "1008",
+    "name": "UTAD C. DESPORTIVO (2)",
+    "nameShort": "1008",
+    "position": {
+      "lat": 41.284542,
+      "lon": -7.73533
+    }
+  },
+  {
+    "id": "1021",
+    "name": "UTAD ENGENHARIAS",
+    "nameShort": "1021",
+    "position": {
+      "lat": 41.285156174,
+      "lon": -7.7436035206
+    }
+  },
+  {
+    "id": "1020",
+    "name": "UTAD LIVRARIA",
+    "nameShort": "1020",
+    "position": {
+      "lat": 41.288449,
+      "lon": -7.740262
+    }
+  },
+  {
+    "id": "1019",
+    "name": "UTAD PEDAGOGICO",
+    "nameShort": "1019",
+    "position": {
+      "lat": 41.284269,
+      "lon": -7.745205
+    }
+  },
+  {
+    "id": "1018",
+    "name": "UTAD REITORIA",
+    "nameShort": "1018",
+    "position": {
+      "lat": 41.286532,
+      "lon": -7.740117
+    }
+  },
+  {
+    "id": "1349",
+    "name": "VALE DE ANDRÃES",
+    "nameShort": "1349",
+    "position": {
+      "lat": 41.265582,
+      "lon": -7.691235
+    }
+  },
+  {
+    "id": "2044",
+    "name": "VALE NOGUEIRAS",
+    "nameShort": "2044",
+    "position": {
+      "lat": 41.291159,
+      "lon": -7.679802
+    }
+  },
+  {
+    "id": "2203",
+    "name": "VARGE",
+    "nameShort": "2203",
+    "position": {
+      "lat": 41.320463,
+      "lon": -7.697868
+    }
+  },
+  {
+    "id": "2204",
+    "name": "VIARIZ",
+    "nameShort": "2204",
+    "position": {
+      "lat": 41.2827993079,
+      "lon": -7.8724980138
+    }
+  },
+  {
+    "id": "2206",
+    "name": "VILA COVA",
+    "nameShort": "2206",
+    "position": {
+      "lat": 41.31586468,
+      "lon": -7.85730712
+    }
+  },
+  {
+    "id": "2208",
+    "name": "VILA MARIM",
+    "nameShort": "2208",
+    "position": {
+      "lat": 41.305327,
+      "lon": -7.779276
+    }
+  },
+  {
+    "id": "2209",
+    "name": "VILA MEÃ (VR)",
+    "nameShort": "2209",
+    "position": {
+      "lat": 41.35996515,
+      "lon": -7.66666597
+    }
+  },
+  {
+    "id": "2232",
+    "name": "VILA MEÂ (VR) X",
+    "nameShort": "2232",
+    "position": {
+      "lat": 41.3554144279,
+      "lon": -7.6625987161
+    }
+  },
+  {
+    "id": "1017",
+    "name": "VILA NOVA",
+    "nameShort": "1017",
+    "position": {
+      "lat": 41.282045,
+      "lon": -7.725526
+    }
+  },
+  {
+    "id": "1005",
+    "name": "VILA NOVA",
+    "nameShort": "1005",
+    "position": {
+      "lat": 41.281758,
+      "lon": -7.726377
+    }
+  },
+  {
+    "id": "1003",
+    "name": "VILA NOVA CIMA I",
+    "nameShort": "1003",
+    "position": {
+      "lat": 41.280771,
+      "lon": -7.726095
+    }
+  },
+  {
+    "id": "1014",
+    "name": "VILA NOVA CIMA II",
+    "nameShort": "1014",
+    "position": {
+      "lat": 41.280685,
+      "lon": -7.725964
+    }
+  },
+  {
+    "id": "1016",
+    "name": "VILA NOVA DE BAIXO",
+    "nameShort": "1016",
+    "position": {
+      "lat": 41.284366,
+      "lon": -7.733554
+    }
+  },
+  {
+    "id": "1002",
+    "name": "VILA NOVA DE BAIXO",
+    "nameShort": "1002",
+    "position": {
+      "lat": 41.283985,
+      "lon": -7.733104
+    }
+  },
+  {
+    "id": "1365",
+    "name": "VILA NOVA X",
+    "nameShort": "1365",
+    "position": {
+      "lat": 41.2816040503,
+      "lon": -7.7257843976
+    }
+  },
+  {
+    "id": "1081",
+    "name": "VILA PAULISTA",
+    "nameShort": "1081",
+    "position": {
+      "lat": 41.311233,
+      "lon": -7.722033
+    }
+  },
+  {
+    "id": "2226",
+    "name": "VILA REAL (CRUZ.)",
+    "nameShort": "2226",
+    "position": {
+      "lat": 41.2935510997,
+      "lon": -7.7671912526
+    }
+  },
+  {
+    "id": "2319",
+    "name": "VILA SECA",
+    "nameShort": "2319",
+    "position": {
+      "lat": 41.336619,
+      "lon": -7.725056
+    }
+  },
+  {
+    "id": "2316",
+    "name": "VILA SECA EN2",
+    "nameShort": "2316",
+    "position": {
+      "lat": 41.329679,
+      "lon": -7.72966
+    }
+  },
+  {
+    "id": "2317",
+    "name": "VILA SECA EN2 RUA DA FEITEIRA",
+    "nameShort": "2317",
+    "position": {
+      "lat": 41.333005,
+      "lon": -7.729581
+    }
+  },
+  {
+    "id": "2318",
+    "name": "VILA SECA ESCOLA BÁSICA",
+    "nameShort": "2318",
+    "position": {
+      "lat": 41.331342,
+      "lon": -7.725582
+    }
+  },
+  {
+    "id": "2304",
+    "name": "VILARINHO DE SAMARDÃ EN2",
+    "nameShort": "2304",
+    "position": {
+      "lat": 41.383345,
+      "lon": -7.708135
+    }
+  },
+  {
+    "id": "2302",
+    "name": "VILARINHO DE SAMARDÃ IGREJA",
+    "nameShort": "2302",
+    "position": {
+      "lat": 41.38231,
+      "lon": -7.703567
+    }
+  },
+  {
+    "id": "2303",
+    "name": "VILARINHO DE SAMARDÃ JUNTA DE FREGUESIA",
+    "nameShort": "2303",
+    "position": {
+      "lat": 41.379812,
+      "lon": -7.704709
+    }
+  },
+  {
+    "id": "2298",
+    "name": "VILARINHO DO TANHA",
+    "nameShort": "2298",
+    "position": {
+      "lat": 41.220499,
+      "lon": -7.717892
+    }
+  }
+]
